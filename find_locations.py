@@ -1,15 +1,15 @@
 import requests
 
-locationName = "Macquarie Park"
-locationName = locationName.replace(' ', '%20')
-url = f"https://returnandearn.org.au/map/?latitude=-33.7810467&longitude=151.122968&locationName={locationName}"
-# url = f"https://returnandearn.org.au/map/locationName={locationName}"
+url = f"https://returnandearn.org.au/return-points/"
+lat = "-33.7792018"
+long = "151.1155455"
 
 payload = {}
 headers = {
   'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
   'Accept-Language': 'en-AU,en-GB;q=0.9,en-US;q=0.8,en;q=0.7',
   'Connection': 'keep-alive',
+  'Cookie': f"locationName=nearby; latitude={lat}; longitude={long}",
   'Sec-Fetch-Dest': 'document',
   'Sec-Fetch-Mode': 'navigate',
   'Sec-Fetch-Site': 'same-origin',
@@ -29,6 +29,14 @@ return_points = []
 # Extract return points, latitudes, and longitudes
 start = 0
 while True:
+    # Extract cp_title
+    title_start = response.text.find('"cp_title":"', start)
+    if title_start != -1:
+        title_end = response.text.find('"', title_start + 12)
+        cp_title = response.text[title_start + 12:title_end]
+    else:
+        cp_title = ""
+    
     # Find return_point name
     start = response.text.find('"cp_url":"', start)
     if start == -1:
@@ -40,7 +48,7 @@ while True:
     parts = cp_url.split('return_point\\/')
     if len(parts) > 1:
         return_point_name = parts[1].split('\\')[0]
-        
+         
         # Extract latitude and longitude
         latitude_start = response.text.find('"cp_latitude":"', start)
         if latitude_start != -1:
@@ -54,10 +62,11 @@ while True:
         
         # Append dictionary to return_points
         return_points.append({
-            "name": return_point_name,
+            "name": cp_title,
+            "return_point_name": return_point_name,
             "lat": cp_latitude,
             "long": cp_longitude
         })
 
 print(return_points)
-print(f"{len(return_points)} return points found for {locationName}")
+print(f"{len(return_points)} return points found")
