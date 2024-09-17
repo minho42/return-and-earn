@@ -68,7 +68,9 @@ def find(lat: str = "0", long: str = "0"):
         cp_postcode = extract_value("cp_postcode", html_string[start:])
         cp_latitude = extract_value("cp_latitude", html_string[start:])
         cp_longitude = extract_value("cp_longitude", html_string[start:])
+        cp_collection_point_type = extract_value("cp_collection_point_type", html_string[start:])
         
+        # to break if not cp_title alone?
         if not cp_title and not cp_url:
             break
         
@@ -81,13 +83,14 @@ def find(lat: str = "0", long: str = "0"):
                 "state": cp_state,
                 "postcode": cp_postcode,
                 "lat": cp_latitude,
-                "long": cp_longitude
+                "long": cp_longitude,
+                "collection_point_type": cp_collection_point_type,
             })
         
         # Update start to move forward in the text (avoid infinite loop)
         start = html_string.find('"cp_url":"', start) + 1
 
-    # print(return_points)
+    print(return_points)
     print(f"{len(return_points)} return points found")
 
 my_location = {
