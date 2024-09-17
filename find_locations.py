@@ -1,5 +1,6 @@
 import requests
 import re
+import json
 
 def extract_value(key: str, data_str: str):
     # Create a pattern to match the key and capture its value (string, number, null)
@@ -90,8 +91,13 @@ def find(lat: str = "0", long: str = "0"):
         # Update start to move forward in the text (avoid infinite loop)
         start = html_string.find('"cp_url":"', start) + 1
 
-    print(return_points)
+    # print(return_points)
     print(f"{len(return_points)} return points found")
+    
+    JSON_FILE_NAME = "return_points.json"
+    print(f"saving return_points to json: {JSON_FILE_NAME}")
+    with open(JSON_FILE_NAME, 'w') as file:
+        json.dump(return_points, file, indent=2)
 
 my_location = {
     'lat': "-33.7792018",
