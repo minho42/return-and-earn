@@ -1,6 +1,7 @@
 import requests
 import re
 import json
+import sqlite3
 
 def extract_value(key: str, data_str: str):
     # Create a pattern to match the key and capture its value (string, number, null)
@@ -16,6 +17,51 @@ def extract_value(key: str, data_str: str):
         else:
             return value
     return None  # Return None if the key is not found
+
+def save_to_db(data):
+    # Connect to SQLite database (or create it if it doesn't exist)
+    conn = sqlite3.connect('db.sqlite3')
+    cursor = conn.cursor()
+
+    # Create a table if it doesn't exist
+    cursor.execute('''
+        CREATE TABLE IF NOT EXISTS return_points (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            name TEXT,
+            return_point_name TEXT,
+            address TEXT,
+            city TEXT,
+            state TEXT,
+            postcode TEXT,
+            lat TEXT,
+            long TEXT,
+            collection_point_type TEXT
+        )
+    ''')
+
+    # Insert return points into the table
+    for point in data:
+        cursor.execute('''
+            INSERT INTO return_points 
+            (name, return_point_name, address, city, state, postcode, lat, long, collection_point_type) 
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+        ''', (
+            point['name'],
+            point['return_point_name'],
+            point['address'],
+            point['city'],
+            point['state'],
+            point['postcode'],
+            point['lat'],
+            point['long'],
+            point['collection_point_type']
+        ))
+    
+    # Commit the transaction and close the connection
+    conn.commit()
+    conn.close()
+    print(f"Saved {len(data)} return points to the database")
+
 
 def find(lat: str = "0", long: str = "0"):
     url = f"https://returnandearn.org.au/return-points/"
@@ -98,6 +144,8 @@ def find(lat: str = "0", long: str = "0"):
     print(f"saving return_points to json: {JSON_FILE_NAME}")
     with open(JSON_FILE_NAME, 'w') as file:
         json.dump(return_points, file, indent=2)
+        
+    save_to_db(return_points)
 
 my_location = {
     'lat': "-33.7792018",

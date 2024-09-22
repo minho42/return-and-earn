@@ -902,8 +902,8 @@
     "collection_point_type": "Automated Depot"
   },
   {
-    "name": "Nowra Return and Earn Depot",
-    "return_point_name": "nowra-return-and-earn",
+    "name": "Shoalhaven Return and Earn Depot",
+    "return_point_name": "shoalhaven-return-and-earn-depot",
     "address": "11\\/158-160 Princes Highway",
     "city": "South Nowra",
     "state": "NSW",
@@ -1689,8 +1689,8 @@
     "city": "Port Macquarie",
     "state": "NSW",
     "postcode": "2444",
-    "lat": "-31.4274",
-    "long": "152.89543",
+    "lat": "-31.42677",
+    "long": "152.89409",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -7137,5 +7137,27 @@
     "lat": "-32.90958",
     "long": "151.61192",
     "collection_point_type": "Reverse Vending Machine"
+  },
+  {
+    "name": "Moorebank Cellars",
+    "return_point_name": "moorebank-cellars",
+    "address": "2\\/271 Newbridge Road",
+    "city": "Chipping Norton",
+    "state": "NSW",
+    "postcode": "2170",
+    "lat": "-33.92843",
+    "long": "150.94839",
+    "collection_point_type": "Over The Counter"
+  },
+  {
+    "name": "Moama Return and Earn Depot",
+    "return_point_name": "moama-return-and-earn-depot",
+    "address": "91 Centre Road ",
+    "city": "Moama",
+    "state": "NSW",
+    "postcode": "2731",
+    "lat": "-36.04387",
+    "long": "144.75369",
+    "collection_point_type": "Automated Depot"
   }
 ]
