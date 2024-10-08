@@ -935,7 +935,7 @@
     "collection_point_type": "Automated Depot"
   },
   {
-    "name": "Wollongong Return and Earn Depot",
+    "name": "St Vincent De Paul Unanderra Return and Earn Depot",
     "return_point_name": "wollongong-return-and-earn-depot",
     "address": "10-12 Investigator Drive",
     "city": "Unanderra",
@@ -7159,5 +7159,38 @@
     "lat": "-36.04387",
     "long": "144.75369",
     "collection_point_type": "Automated Depot"
+  },
+  {
+    "name": "Ungarie CPA",
+    "return_point_name": "ungarie-cpa",
+    "address": "39 Wollongough Street",
+    "city": "Ungarie",
+    "state": "NSW",
+    "postcode": "2669",
+    "lat": "-33.63868",
+    "long": "146.97382",
+    "collection_point_type": "Over The Counter"
+  },
+  {
+    "name": "Bonnyrigg Plaza",
+    "return_point_name": "bonnyrigg-plaza",
+    "address": "100 Bonnyrigg Ave",
+    "city": "Bonnyrigg",
+    "state": "NSW",
+    "postcode": "2177",
+    "lat": "-33.8869",
+    "long": "150.8874",
+    "collection_point_type": "Reverse Vending Machine"
+  },
+  {
+    "name": "Sanfa Supermarket Telopea",
+    "return_point_name": "sanfa-supermarket-telopea",
+    "address": "7A Evans Rd",
+    "city": "Telopea",
+    "state": "NSW",
+    "postcode": "2117",
+    "lat": "-33.79529",
+    "long": "151.04527",
+    "collection_point_type": "Reverse Vending Machine"
   }
 ]
