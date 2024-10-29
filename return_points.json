@@ -539,14 +539,14 @@
     "collection_point_type": "Over The Counter"
   },
   {
-    "name": "Yennora Newsagency",
-    "return_point_name": "yennora-newsagency",
-    "address": "152 Fairfield Street ",
+    "name": "Local Cleaning and Mix Business",
+    "return_point_name": "local-cleaning-and-mix-business-guildford",
+    "address": "158 Fairfield Street ",
     "city": "Old Guildford",
     "state": "NSW",
     "postcode": "2161",
-    "lat": "-33.8686453",
-    "long": "150.9697824",
+    "lat": "-33.868646",
+    "long": "150.96974",
     "collection_point_type": "Over The Counter"
   },
   {
@@ -1381,8 +1381,8 @@
     "city": "Campbelltown",
     "state": "NSW",
     "postcode": "2560",
-    "lat": "-34.068653",
-    "long": "150.80943",
+    "lat": "-34.067467",
+    "long": "150.81099",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4521,17 +4521,6 @@
     "collection_point_type": "Reverse Vending Centre"
   },
   {
-    "name": "Tumbarumba Bowling Club",
-    "return_point_name": "tumbarumba-bowling-club",
-    "address": "47 Winton Street",
-    "city": "Tumbarumba",
-    "state": "NSW",
-    "postcode": "2653",
-    "lat": "-35.778098",
-    "long": "148.010992",
-    "collection_point_type": "Over The Counter"
-  },
-  {
     "name": "Archibald Hotel",
     "return_point_name": "archibald-hotel",
     "address": "1349 Bells Line Of Road",
@@ -6127,17 +6116,6 @@
     "collection_point_type": "Reverse Vending Machine"
   },
   {
-    "name": "Hannans Road Convenience Store",
-    "return_point_name": "hannans-road-convenience-store",
-    "address": "3\\/1A Hannans Road",
-    "city": "Riverwood",
-    "state": "NSW",
-    "postcode": "2210",
-    "lat": "-33.945598",
-    "long": "151.053696",
-    "collection_point_type": "Over The Counter"
-  },
-  {
     "name": "Merinda Recycling",
     "return_point_name": "merinda-recycling",
     "address": "21 Merinda Rd",
@@ -6611,17 +6589,6 @@
     "collection_point_type": "Reverse Vending Machine"
   },
   {
-    "name": "8Ten Desi Bazaar",
-    "return_point_name": "8ten-desi-bazaar",
-    "address": "27 Oxford Street",
-    "city": "Epping",
-    "state": "NSW",
-    "postcode": "2121",
-    "lat": "-33.77085",
-    "long": "151.08289",
-    "collection_point_type": "Over The Counter"
-  },
-  {
     "name": "North Ryde Newsagency",
     "return_point_name": "north-ryde-newsagency",
     "address": "12 Blenheim Road",
@@ -6762,17 +6729,6 @@
     "postcode": "2170",
     "lat": "-33.92315",
     "long": "150.90386",
-    "collection_point_type": "Over The Counter"
-  },
-  {
-    "name": "Aashirwad Grocery",
-    "return_point_name": "aashirwad-grocery-artarmon",
-    "address": "124 Hampden Road",
-    "city": "Artarmon",
-    "state": "NSW",
-    "postcode": "2064",
-    "lat": "-33.80807",
-    "long": "151.18357",
     "collection_point_type": "Over The Counter"
   },
   {
@@ -7191,6 +7147,39 @@
     "postcode": "2117",
     "lat": "-33.79529",
     "long": "151.04527",
+    "collection_point_type": "Reverse Vending Machine"
+  },
+  {
+    "name": "Parkes Services Club",
+    "return_point_name": "parkes-services-club",
+    "address": "20 Caledonia Street",
+    "city": "Parkes",
+    "state": "NSW",
+    "postcode": "2870",
+    "lat": "-33.14101",
+    "long": "148.17442",
+    "collection_point_type": "Reverse Vending Machine"
+  },
+  {
+    "name": "Lone Star Rib House ",
+    "return_point_name": "lone-star-rib-house-parramatta",
+    "address": "306 Church Street",
+    "city": "Parramatta",
+    "state": "NSW",
+    "postcode": "2150",
+    "lat": "-33.81195",
+    "long": "151.00419",
+    "collection_point_type": "Over The Counter"
+  },
+  {
+    "name": "Return and Earn Batemans Bay - RVBD",
+    "return_point_name": "return-and-earn-batemans-bay-rvbd",
+    "address": "1\\/70 Cranbrook Road",
+    "city": "Batemans Bay",
+    "state": "NSW",
+    "postcode": "2536",
+    "lat": "-35.722115",
+    "long": "150.1659",
     "collection_point_type": "Reverse Vending Machine"
   }
 ]
