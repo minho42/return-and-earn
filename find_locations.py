@@ -145,7 +145,7 @@ def find(lat: str = "0", long: str = "0"):
     with open(JSON_FILE_NAME, 'w') as file:
         json.dump(return_points, file, indent=2)
         
-    save_to_db(return_points)
+    # save_to_db(return_points)
 
 my_location = {
     'lat': "-33.7792018",
