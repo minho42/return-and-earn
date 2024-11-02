@@ -542,7 +542,7 @@
     "name": "Local Cleaning and Mix Business",
     "return_point_name": "local-cleaning-and-mix-business-guildford",
     "address": "158 Fairfield Street ",
-    "city": "Old Guildford",
+    "city": "Yennora",
     "state": "NSW",
     "postcode": "2161",
     "lat": "-33.868646",
@@ -3885,7 +3885,7 @@
   {
     "name": "Willing and Able Foundation Ltd",
     "return_point_name": "willing-and-able-foundation-ltd",
-    "address": "20 Jambali Road",
+    "address": "38 Jindalee Road",
     "city": "Port Macquarie",
     "state": "NSW",
     "postcode": "2444",
@@ -7172,14 +7172,25 @@
     "collection_point_type": "Over The Counter"
   },
   {
-    "name": "Return and Earn Batemans Bay - RVBD",
-    "return_point_name": "return-and-earn-batemans-bay-rvbd",
+    "name": "Return and Earn Bulk Centre Bateman's Bay",
+    "return_point_name": "return-and-earn-bulk-centre-batemans-bay",
     "address": "1\\/70 Cranbrook Road",
     "city": "Batemans Bay",
     "state": "NSW",
     "postcode": "2536",
     "lat": "-35.722115",
     "long": "150.1659",
+    "collection_point_type": "Reverse Vending Machine"
+  },
+  {
+    "name": "Ropes Crossing Shopping Village",
+    "return_point_name": "ropes-crossing-shopping-village",
+    "address": "8 Central Place",
+    "city": "Ropes Crossing",
+    "state": "NSW",
+    "postcode": "2760",
+    "lat": "-33.732918",
+    "long": "150.78094",
     "collection_point_type": "Reverse Vending Machine"
   }
 ]
