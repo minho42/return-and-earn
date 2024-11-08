@@ -495,7 +495,7 @@
     "collection_point_type": "Over The Counter"
   },
   {
-    "name": "Omart (ezyMart) Convenience Store",
+    "name": "Convenience By Emoji",
     "return_point_name": "omart-ezymart-convenience-store",
     "address": "1\\/250 Pacific Highway",
     "city": "Crows Nest",
@@ -6347,17 +6347,6 @@
     "collection_point_type": "Automated Depot"
   },
   {
-    "name": "Batemans Bay",
-    "return_point_name": "batemans-bay",
-    "address": "1\\/70 Cranbrook Road",
-    "city": "Batemans Bay",
-    "state": "NSW",
-    "postcode": "2536",
-    "lat": "-35.7224",
-    "long": "150.16594",
-    "collection_point_type": "Reverse Vending Machine"
-  },
-  {
     "name": "Return and Earn Express Seaforth Friendly Grocer",
     "return_point_name": "return-and-earn-express-seaforth-friendly-grocer",
     "address": "38 Frenchs Forest Rd",
@@ -6446,8 +6435,8 @@
     "collection_point_type": "Over The Counter"
   },
   {
-    "name": "Hello Caf\\u00e9 Randwick",
-    "return_point_name": "hello-cafe-randwick",
+    "name": "Java Junction Caf\\u00e9",
+    "return_point_name": "java-junction-cafe",
     "address": "62-64 Perouse Road",
     "city": "Randwick",
     "state": "NSW",
