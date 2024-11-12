@@ -6567,8 +6567,8 @@
     "collection_point_type": "Reverse Vending Machine"
   },
   {
-    "name": "Woolworths Bega Country Club",
-    "return_point_name": "woolworths-bega-country-club",
+    "name": "Bega Country Club",
+    "return_point_name": "bega-country-club",
     "address": "1477 Tarraganda Ln",
     "city": "Tarraganda",
     "state": "NSW",
