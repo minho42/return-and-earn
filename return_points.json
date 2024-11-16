@@ -7181,5 +7181,27 @@
     "lat": "-33.732918",
     "long": "150.78094",
     "collection_point_type": "Reverse Vending Machine"
+  },
+  {
+    "name": "Coles Gunnedah",
+    "return_point_name": "coles-gunnedah",
+    "address": "80\\/98 Little Conadilly St",
+    "city": "Gunnedah",
+    "state": "NSW",
+    "postcode": "2380",
+    "lat": "-30.975782",
+    "long": "150.25337",
+    "collection_point_type": "Reverse Vending Machine"
+  },
+  {
+    "name": "The Bolt Shop Inverell",
+    "return_point_name": "the-bolt-shop-inverell",
+    "address": "95B Ring St",
+    "city": "Inverell",
+    "state": "NSW",
+    "postcode": "2360",
+    "lat": "-29.762897",
+    "long": "151.10843",
+    "collection_point_type": "Reverse Vending Machine"
   }
 ]
