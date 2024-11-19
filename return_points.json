@@ -7203,5 +7203,16 @@
     "lat": "-29.762897",
     "long": "151.10843",
     "collection_point_type": "Reverse Vending Machine"
+  },
+  {
+    "name": "Maitland PCYC",
+    "return_point_name": "maitland-pcyc",
+    "address": "3 James St",
+    "city": "Maitland",
+    "state": "NSW",
+    "postcode": "2320",
+    "lat": "-32.737164",
+    "long": "151.56209",
+    "collection_point_type": "Reverse Vending Machine"
   }
 ]
