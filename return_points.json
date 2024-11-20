@@ -1073,8 +1073,8 @@
     "city": "Bella Vista",
     "state": "NSW",
     "postcode": "2153",
-    "lat": "-33.737114",
-    "long": "150.94933",
+    "lat": "-33.737113",
+    "long": "150.949331",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1085,7 +1085,7 @@
     "state": "NSW",
     "postcode": "2570",
     "lat": "-34.06939",
-    "long": "150.72894",
+    "long": "150.72895",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1095,8 +1095,8 @@
     "city": "Lisarow",
     "state": "NSW",
     "postcode": "2250",
-    "lat": "-33.3865",
-    "long": "151.36653",
+    "lat": "-33.3865009",
+    "long": "151.3665293",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1106,8 +1106,8 @@
     "city": "Prospect",
     "state": "NSW",
     "postcode": "2148",
-    "lat": "-33.79681",
-    "long": "150.90479",
+    "lat": "-33.796809",
+    "long": "150.904786",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1117,8 +1117,8 @@
     "city": "Glenorie",
     "state": "NSW",
     "postcode": "2157",
-    "lat": "-33.601543",
-    "long": "151.00737",
+    "lat": "-33.601542",
+    "long": "151.007363",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1128,8 +1128,8 @@
     "city": "Camden",
     "state": "NSW",
     "postcode": "2570",
-    "lat": "-34.054707",
-    "long": "150.6936",
+    "lat": "-34.054705",
+    "long": "150.693608",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1139,8 +1139,8 @@
     "city": "Vincentia",
     "state": "NSW",
     "postcode": "2540",
-    "lat": "-35.07601",
-    "long": "150.65532",
+    "lat": "-35.076011",
+    "long": "150.655315",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1161,8 +1161,8 @@
     "city": "Revesby",
     "state": "NSW",
     "postcode": "2212",
-    "lat": "-33.951523",
-    "long": "151.01353",
+    "lat": "-33.9515214",
+    "long": "151.0135409",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1172,8 +1172,8 @@
     "city": "Tumut",
     "state": "NSW",
     "postcode": "2720",
-    "lat": "-35.300022",
-    "long": "148.22353",
+    "lat": "-35.300021",
+    "long": "148.223525",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1183,8 +1183,8 @@
     "city": "Yass",
     "state": "NSW",
     "postcode": "2582",
-    "lat": "-34.84497",
-    "long": "148.91551",
+    "lat": "-34.8449712",
+    "long": "148.9155138",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1194,8 +1194,8 @@
     "city": "Queanbeyan",
     "state": "NSW",
     "postcode": "2620",
-    "lat": "-35.350433",
-    "long": "149.23271",
+    "lat": "-35.350432",
+    "long": "149.232706",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1205,8 +1205,8 @@
     "city": "Cootamundra",
     "state": "NSW",
     "postcode": "2590",
-    "lat": "-34.63736",
-    "long": "148.02412",
+    "lat": "-34.6373596",
+    "long": "148.0241207",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1216,8 +1216,8 @@
     "city": "Leeton",
     "state": "NSW",
     "postcode": "2705",
-    "lat": "-34.55007",
-    "long": "146.39929",
+    "lat": "-34.550073",
+    "long": "146.399299",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1227,8 +1227,8 @@
     "city": "Cooma",
     "state": "NSW",
     "postcode": "2630",
-    "lat": "-36.233147",
-    "long": "149.1243",
+    "lat": "-36.2331451",
+    "long": "149.1242964",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1238,8 +1238,8 @@
     "city": "Inverell",
     "state": "NSW",
     "postcode": "2360",
-    "lat": "-29.771832",
-    "long": "151.11182",
+    "lat": "-29.771831",
+    "long": "151.111822",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1249,8 +1249,8 @@
     "city": "Gunnedah",
     "state": "NSW",
     "postcode": "2380",
-    "lat": "-30.97662",
-    "long": "150.25006",
+    "lat": "-30.976619",
+    "long": "150.250062",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1260,8 +1260,8 @@
     "city": "Wellington",
     "state": "NSW",
     "postcode": "2820",
-    "lat": "-32.55494",
-    "long": "148.94365",
+    "lat": "-32.554938",
+    "long": "148.943642",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1271,8 +1271,8 @@
     "city": "Cowra",
     "state": "NSW",
     "postcode": "2794",
-    "lat": "-33.83645",
-    "long": "148.69238",
+    "lat": "-33.836449",
+    "long": "148.692383",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1283,7 +1283,7 @@
     "state": "NSW",
     "postcode": "2456",
     "lat": "-30.11219",
-    "long": "153.1898",
+    "long": "153.189798",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1293,8 +1293,8 @@
     "city": "Mayfield",
     "state": "NSW",
     "postcode": "2304",
-    "lat": "-32.900066",
-    "long": "151.73955",
+    "lat": "-32.900067",
+    "long": "151.739554",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1304,8 +1304,8 @@
     "city": "Moruya",
     "state": "NSW",
     "postcode": "2537",
-    "lat": "-35.91054",
-    "long": "150.0818",
+    "lat": "-35.910541",
+    "long": "150.081804",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1315,8 +1315,8 @@
     "city": "Wagga Wagga",
     "state": "NSW",
     "postcode": "2650",
-    "lat": "-35.107117",
-    "long": "147.36908",
+    "lat": "-35.107116",
+    "long": "147.369079",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1326,8 +1326,8 @@
     "city": "Marsfield",
     "state": "NSW",
     "postcode": "2122",
-    "lat": "-33.778183",
-    "long": "151.10802",
+    "lat": "-33.778184",
+    "long": "151.108022",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1348,8 +1348,8 @@
     "city": "Kellyville",
     "state": "NSW",
     "postcode": "2155",
-    "lat": "-33.71439",
-    "long": "150.97122",
+    "lat": "-33.714389",
+    "long": "150.971228",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1360,7 +1360,7 @@
     "state": "NSW",
     "postcode": "2575",
     "lat": "-34.445797",
-    "long": "150.4377",
+    "long": "150.437703",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1370,8 +1370,8 @@
     "city": "Carnes Hill",
     "state": "NSW",
     "postcode": "2171",
-    "lat": "-33.93809",
-    "long": "150.84502",
+    "lat": "-33.938093",
+    "long": "150.845019",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1381,8 +1381,8 @@
     "city": "Campbelltown",
     "state": "NSW",
     "postcode": "2560",
-    "lat": "-34.067467",
-    "long": "150.81099",
+    "lat": "-34.067465",
+    "long": "150.810983",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1403,8 +1403,8 @@
     "city": "Mount Hutton",
     "state": "NSW",
     "postcode": "2290",
-    "lat": "-32.985626",
-    "long": "151.67143",
+    "lat": "-32.985627",
+    "long": "151.671438",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1415,7 +1415,7 @@
     "state": "NSW",
     "postcode": "2261",
     "lat": "-33.37281",
-    "long": "151.47379",
+    "long": "151.473788",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1425,8 +1425,8 @@
     "city": "Wagga Wagga",
     "state": "NSW",
     "postcode": "2650",
-    "lat": "-35.14117",
-    "long": "147.37643",
+    "lat": "-35.141172",
+    "long": "147.376438",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1436,8 +1436,8 @@
     "city": "Marrickville",
     "state": "NSW",
     "postcode": "2204",
-    "lat": "-33.902534",
-    "long": "151.16106",
+    "lat": "-33.902533",
+    "long": "151.161055",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1448,7 +1448,7 @@
     "state": "NSW",
     "postcode": "2565",
     "lat": "-33.99957",
-    "long": "150.86528",
+    "long": "150.865278",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1459,7 +1459,7 @@
     "state": "NSW",
     "postcode": "2529",
     "lat": "-34.566254",
-    "long": "150.83772",
+    "long": "150.837725",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1469,8 +1469,8 @@
     "city": "Corrimal",
     "state": "NSW",
     "postcode": "2518",
-    "lat": "-34.37523",
-    "long": "150.89671",
+    "lat": "-34.375229",
+    "long": "150.896709",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1480,8 +1480,8 @@
     "city": "Jesmond",
     "state": "NSW",
     "postcode": "2299",
-    "lat": "-32.901436",
-    "long": "151.6891",
+    "lat": "-32.90143425",
+    "long": "151.6891006",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1491,8 +1491,8 @@
     "city": "Cessnock",
     "state": "NSW",
     "postcode": "2325",
-    "lat": "-32.834873",
-    "long": "151.35197",
+    "lat": "-32.834875",
+    "long": "151.351967",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1502,8 +1502,8 @@
     "city": "Narooma",
     "state": "NSW",
     "postcode": "2546",
-    "lat": "-36.223385",
-    "long": "150.12791",
+    "lat": "-36.223383",
+    "long": "150.127917",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1513,8 +1513,8 @@
     "city": "Kingscliff",
     "state": "NSW",
     "postcode": "2487",
-    "lat": "-28.256968",
-    "long": "153.57526",
+    "lat": "-28.256967",
+    "long": "153.57525",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1524,8 +1524,8 @@
     "city": "Bass Hill",
     "state": "NSW",
     "postcode": "2197",
-    "lat": "-33.898575",
-    "long": "150.99408",
+    "lat": "-33.898574",
+    "long": "150.994081",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1535,8 +1535,8 @@
     "city": "Erina",
     "state": "NSW",
     "postcode": "2250",
-    "lat": "-33.436474",
-    "long": "151.39067",
+    "lat": "-33.436475",
+    "long": "151.390678",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1546,8 +1546,8 @@
     "city": "Forster",
     "state": "NSW",
     "postcode": "2428",
-    "lat": "-32.19882",
-    "long": "152.52107",
+    "lat": "-32.198817",
+    "long": "152.521065",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1558,7 +1558,7 @@
     "state": "NSW",
     "postcode": "2680",
     "lat": "-34.285862",
-    "long": "146.03745",
+    "long": "146.037446",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1568,8 +1568,8 @@
     "city": "Armidale",
     "state": "NSW",
     "postcode": "2350",
-    "lat": "-30.54003",
-    "long": "151.68588",
+    "lat": "-30.540029",
+    "long": "151.685888",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1579,8 +1579,8 @@
     "city": "Tamworth",
     "state": "NSW",
     "postcode": "2340",
-    "lat": "-31.108501",
-    "long": "150.90866",
+    "lat": "-31.108502",
+    "long": "150.908665",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1591,7 +1591,7 @@
     "state": "NSW",
     "postcode": "2470",
     "lat": "-28.86188",
-    "long": "153.05019",
+    "long": "153.050192",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1602,7 +1602,7 @@
     "state": "NSW",
     "postcode": "2830",
     "lat": "-32.253822",
-    "long": "148.57767",
+    "long": "148.577671",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1612,8 +1612,8 @@
     "city": "North Orange",
     "state": "NSW",
     "postcode": "2800",
-    "lat": "-33.254032",
-    "long": "149.10127",
+    "lat": "-33.254031",
+    "long": "149.10128",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1623,8 +1623,8 @@
     "city": "Griffith North",
     "state": "NSW",
     "postcode": "2680",
-    "lat": "-34.285736",
-    "long": "146.04398",
+    "lat": "-34.285737",
+    "long": "146.043981",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1634,8 +1634,8 @@
     "city": "Swansea",
     "state": "NSW",
     "postcode": "2281",
-    "lat": "-33.08684",
-    "long": "151.63797",
+    "lat": "-33.086843",
+    "long": "151.637968",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1646,7 +1646,7 @@
     "state": "NSW",
     "postcode": "2294",
     "lat": "-32.904655",
-    "long": "151.75995",
+    "long": "151.759949",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1656,8 +1656,8 @@
     "city": "Wadalba",
     "state": "NSW",
     "postcode": "2259",
-    "lat": "-33.264805",
-    "long": "151.46492",
+    "lat": "-33.264803",
+    "long": "151.464926",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1667,8 +1667,8 @@
     "city": "Campbelltown",
     "state": "NSW",
     "postcode": "2560",
-    "lat": "-34.077362",
-    "long": "150.79666",
+    "lat": "-34.077361",
+    "long": "150.796663",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1678,8 +1678,8 @@
     "city": "Menai",
     "state": "NSW",
     "postcode": "2234",
-    "lat": "-34.015007",
-    "long": "151.01501",
+    "lat": "-34.015008",
+    "long": "151.015008",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1690,7 +1690,7 @@
     "state": "NSW",
     "postcode": "2444",
     "lat": "-31.42677",
-    "long": "152.89409",
+    "long": "152.894095",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1700,8 +1700,8 @@
     "city": "Kelso",
     "state": "NSW",
     "postcode": "2795",
-    "lat": "-33.416473",
-    "long": "149.59415",
+    "lat": "-33.416475",
+    "long": "149.594145",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1711,8 +1711,8 @@
     "city": "Robin Hill",
     "state": "NSW",
     "postcode": "2795",
-    "lat": "-33.41393",
-    "long": "149.54546",
+    "lat": "-33.413928",
+    "long": "149.545457",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1722,8 +1722,8 @@
     "city": "Tura Beach",
     "state": "NSW",
     "postcode": "2548",
-    "lat": "-36.863224",
-    "long": "149.91345",
+    "lat": "-36.863223",
+    "long": "149.913456",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1745,7 +1745,7 @@
     "state": "NSW",
     "postcode": "2567",
     "lat": "-34.03918",
-    "long": "150.7356",
+    "long": "150.735597",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1756,7 +1756,7 @@
     "state": "NSW",
     "postcode": "2480",
     "lat": "-28.823324",
-    "long": "153.32788",
+    "long": "153.327885",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1767,7 +1767,7 @@
     "state": "NSW",
     "postcode": "2460",
     "lat": "-29.706299",
-    "long": "152.94035",
+    "long": "152.940349",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1777,8 +1777,8 @@
     "city": "Deniliquin",
     "state": "NSW",
     "postcode": "2710",
-    "lat": "-35.52736",
-    "long": "144.96355",
+    "lat": "-35.5273596",
+    "long": "144.9635452",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1788,8 +1788,8 @@
     "city": "Lithgow",
     "state": "NSW",
     "postcode": "2790",
-    "lat": "-33.487522",
-    "long": "150.15239",
+    "lat": "-33.487523",
+    "long": "150.152396",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1799,8 +1799,8 @@
     "city": "Wauchope",
     "state": "NSW",
     "postcode": "2446",
-    "lat": "-31.468405",
-    "long": "152.715",
+    "lat": "-31.468404",
+    "long": "152.714997",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1810,8 +1810,8 @@
     "city": "Nowra",
     "state": "NSW",
     "postcode": "2541",
-    "lat": "-34.87493",
-    "long": "150.60628",
+    "lat": "-34.874932",
+    "long": "150.606277",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1822,7 +1822,7 @@
     "state": "NSW",
     "postcode": "2264",
     "lat": "-33.11117",
-    "long": "151.53133",
+    "long": "151.531328",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1832,8 +1832,8 @@
     "city": "Temora",
     "state": "NSW",
     "postcode": "2666",
-    "lat": "-34.448624",
-    "long": "147.53354",
+    "lat": "-34.448625",
+    "long": "147.533532",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1844,7 +1844,7 @@
     "state": "NSW",
     "postcode": "2464",
     "lat": "-29.43865",
-    "long": "153.35738",
+    "long": "153.357378",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1854,8 +1854,8 @@
     "city": "Leonay",
     "state": "NSW",
     "postcode": "2750",
-    "lat": "-33.76003",
-    "long": "150.6487",
+    "lat": "-33.760027",
+    "long": "150.648693",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1865,8 +1865,8 @@
     "city": "Kingswood",
     "state": "NSW",
     "postcode": "2747",
-    "lat": "-33.743233",
-    "long": "150.713",
+    "lat": "-33.743234",
+    "long": "150.713004",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1876,8 +1876,8 @@
     "city": "Moama",
     "state": "NSW",
     "postcode": "2731",
-    "lat": "-36.107452",
-    "long": "144.75023",
+    "lat": "-36.107454",
+    "long": "144.750235",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1887,8 +1887,8 @@
     "city": "Manly Vale",
     "state": "NSW",
     "postcode": "2093",
-    "lat": "-33.78518",
-    "long": "151.26846",
+    "lat": "-33.7851788",
+    "long": "151.2684604",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1898,8 +1898,8 @@
     "city": "Homebush West",
     "state": "NSW",
     "postcode": "2140",
-    "lat": "-33.85939",
-    "long": "151.0709",
+    "lat": "-33.859389",
+    "long": "151.07091",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1909,8 +1909,8 @@
     "city": "Tenterfield",
     "state": "NSW",
     "postcode": "2372",
-    "lat": "-29.047016",
-    "long": "152.01971",
+    "lat": "-29.047017",
+    "long": "152.019714",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1921,7 +1921,7 @@
     "state": "NSW",
     "postcode": "2481",
     "lat": "-28.636772",
-    "long": "153.57585",
+    "long": "153.575855",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1931,8 +1931,8 @@
     "city": "Parkes",
     "state": "NSW",
     "postcode": "2870",
-    "lat": "-33.134647",
-    "long": "148.17523",
+    "lat": "-33.134646",
+    "long": "148.175226",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1943,7 +1943,7 @@
     "state": "NSW",
     "postcode": "2594",
     "lat": "-34.312386",
-    "long": "148.29689",
+    "long": "148.296895",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1954,7 +1954,7 @@
     "state": "NSW",
     "postcode": "2766",
     "lat": "-33.799927",
-    "long": "150.83496",
+    "long": "150.834963",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1975,8 +1975,8 @@
     "city": "Kemps Creek",
     "state": "NSW",
     "postcode": "2178",
-    "lat": "-33.879696",
-    "long": "150.7883",
+    "lat": "-33.879695",
+    "long": "150.788303",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1986,8 +1986,8 @@
     "city": "Dee Why",
     "state": "NSW",
     "postcode": "2099",
-    "lat": "-33.741577",
-    "long": "151.2875",
+    "lat": "-33.741578",
+    "long": "151.287501",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -1998,7 +1998,7 @@
     "state": "NSW",
     "postcode": "2210",
     "lat": "-33.968475",
-    "long": "151.0518",
+    "long": "151.051803",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2009,7 +2009,7 @@
     "state": "NSW",
     "postcode": "2750",
     "lat": "-33.75613",
-    "long": "150.692",
+    "long": "150.692008",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2019,8 +2019,8 @@
     "city": "Green Point",
     "state": "NSW",
     "postcode": "2251",
-    "lat": "-33.446392",
-    "long": "151.37367",
+    "lat": "-33.446391",
+    "long": "151.373679",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2030,8 +2030,8 @@
     "city": "Jewells",
     "state": "NSW",
     "postcode": "2280",
-    "lat": "-33.01249",
-    "long": "151.68484",
+    "lat": "-33.012488",
+    "long": "151.684842",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2042,7 +2042,7 @@
     "state": "NSW",
     "postcode": "2036",
     "lat": "-33.96845",
-    "long": "151.25354",
+    "long": "151.253534",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2052,8 +2052,8 @@
     "city": "Strathfield",
     "state": "NSW",
     "postcode": "2135",
-    "lat": "-33.872223",
-    "long": "151.09328",
+    "lat": "-33.872221",
+    "long": "151.093273",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2064,7 +2064,7 @@
     "state": "NSW",
     "postcode": "2431",
     "lat": "-30.90722",
-    "long": "153.04263",
+    "long": "153.042639",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2074,8 +2074,8 @@
     "city": "Old Bar",
     "state": "NSW",
     "postcode": "2430",
-    "lat": "-31.966902",
-    "long": "152.56583",
+    "lat": "-31.966901",
+    "long": "152.565829",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2085,8 +2085,8 @@
     "city": "Bomaderry",
     "state": "NSW",
     "postcode": "2541",
-    "lat": "-34.84852",
-    "long": "150.61192",
+    "lat": "-34.848517",
+    "long": "150.611918",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2097,7 +2097,7 @@
     "state": "NSW",
     "postcode": "2447",
     "lat": "-30.709219",
-    "long": "152.92154",
+    "long": "152.921542",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2107,8 +2107,8 @@
     "city": "Kings Langley",
     "state": "NSW",
     "postcode": "2147",
-    "lat": "-33.74376",
-    "long": "150.92332",
+    "lat": "-33.743759",
+    "long": "150.923324",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2119,7 +2119,7 @@
     "state": "NSW",
     "postcode": "2259",
     "lat": "-33.26853",
-    "long": "151.4335",
+    "long": "151.433502",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2130,7 +2130,7 @@
     "state": "NSW",
     "postcode": "2333",
     "lat": "-32.270935",
-    "long": "150.88025",
+    "long": "150.880253",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2141,7 +2141,7 @@
     "state": "NSW",
     "postcode": "2619",
     "lat": "-35.381287",
-    "long": "149.20148",
+    "long": "149.20147",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2151,8 +2151,8 @@
     "city": "Berkeley",
     "state": "NSW",
     "postcode": "2506",
-    "lat": "-34.48152",
-    "long": "150.84605",
+    "lat": "-34.481522",
+    "long": "150.846047",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2162,8 +2162,8 @@
     "city": "Kincumber",
     "state": "NSW",
     "postcode": "2251",
-    "lat": "-33.46727",
-    "long": "151.38336",
+    "lat": "-33.467269",
+    "long": "151.383365",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2174,7 +2174,7 @@
     "state": "NSW",
     "postcode": "2429",
     "lat": "-31.869833",
-    "long": "152.37337",
+    "long": "152.373371",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2185,7 +2185,7 @@
     "state": "NSW",
     "postcode": "2306",
     "lat": "-32.991093",
-    "long": "151.68723",
+    "long": "151.687227",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2195,8 +2195,8 @@
     "city": "Bennetts Green",
     "state": "NSW",
     "postcode": "2290",
-    "lat": "-32.99597",
-    "long": "151.68938",
+    "lat": "-32.995973",
+    "long": "151.689375",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2206,8 +2206,8 @@
     "city": "Parklea",
     "state": "NSW",
     "postcode": "2768",
-    "lat": "-33.72418",
-    "long": "150.9315",
+    "lat": "-33.724177",
+    "long": "150.931498",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2217,8 +2217,8 @@
     "city": "Fletcher",
     "state": "NSW",
     "postcode": "2287",
-    "lat": "-32.877598",
-    "long": "151.647",
+    "lat": "-32.877599",
+    "long": "151.647006",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2228,8 +2228,8 @@
     "city": "San Remo",
     "state": "NSW",
     "postcode": "2262",
-    "lat": "-33.215492",
-    "long": "151.51143",
+    "lat": "-33.215494",
+    "long": "151.511424",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2239,8 +2239,8 @@
     "city": "Baulkham Hills",
     "state": "NSW",
     "postcode": "2153",
-    "lat": "-33.763485",
-    "long": "151.00482",
+    "lat": "-33.763486",
+    "long": "151.004817",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2251,7 +2251,7 @@
     "state": "NSW",
     "postcode": "2540",
     "lat": "-35.090416",
-    "long": "150.599",
+    "long": "150.598998",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2261,8 +2261,8 @@
     "city": "Narrabri",
     "state": "NSW",
     "postcode": "2390",
-    "lat": "-30.335632",
-    "long": "149.80246",
+    "lat": "-30.335633",
+    "long": "149.802458",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2273,7 +2273,7 @@
     "state": "NSW",
     "postcode": "2765",
     "lat": "-33.6502",
-    "long": "150.86275",
+    "long": "150.862745",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2283,8 +2283,8 @@
     "city": "Rutherford",
     "state": "NSW",
     "postcode": "2320",
-    "lat": "-32.7065",
-    "long": "151.50832",
+    "lat": "-32.706501",
+    "long": "151.508319",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2295,7 +2295,7 @@
     "state": "NSW",
     "postcode": "2482",
     "lat": "-28.557653",
-    "long": "153.49635",
+    "long": "153.496353",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2306,7 +2306,7 @@
     "state": "NSW",
     "postcode": "2448",
     "lat": "-30.639364",
-    "long": "153.01122",
+    "long": "153.011215",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2316,8 +2316,8 @@
     "city": "Punchbowl",
     "state": "NSW",
     "postcode": "2196",
-    "lat": "-33.934208",
-    "long": "151.0405",
+    "lat": "-33.934207",
+    "long": "151.040501",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2328,7 +2328,7 @@
     "state": "NSW",
     "postcode": "2486",
     "lat": "-28.240458",
-    "long": "153.50163",
+    "long": "153.501637",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2338,8 +2338,8 @@
     "city": "Ulladulla",
     "state": "NSW",
     "postcode": "2539",
-    "lat": "-35.36879",
-    "long": "150.47179",
+    "lat": "-35.368791",
+    "long": "150.471782",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2349,8 +2349,8 @@
     "city": "Dural",
     "state": "NSW",
     "postcode": "2158",
-    "lat": "-33.689354",
-    "long": "151.01587",
+    "lat": "-33.689353",
+    "long": "151.015874",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2360,8 +2360,8 @@
     "city": "Helensburgh",
     "state": "NSW",
     "postcode": "2508",
-    "lat": "-34.20294",
-    "long": "150.96841",
+    "lat": "-34.202943",
+    "long": "150.968413",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2372,7 +2372,7 @@
     "state": "NSW",
     "postcode": "2558",
     "lat": "-34.032204",
-    "long": "150.81557",
+    "long": "150.815562",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2382,8 +2382,8 @@
     "city": "Shalvey",
     "state": "NSW",
     "postcode": "2770",
-    "lat": "-33.731888",
-    "long": "150.80128",
+    "lat": "-33.731887",
+    "long": "150.801279",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2393,8 +2393,8 @@
     "city": "Belrose",
     "state": "NSW",
     "postcode": "2085",
-    "lat": "-33.739876",
-    "long": "151.20935",
+    "lat": "-33.739874",
+    "long": "151.209351",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2404,8 +2404,8 @@
     "city": "Raymond Terrace",
     "state": "NSW",
     "postcode": "2324",
-    "lat": "-32.763237",
-    "long": "151.75493",
+    "lat": "-32.763238",
+    "long": "151.754928",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2415,8 +2415,8 @@
     "city": "Dapto",
     "state": "NSW",
     "postcode": "2530",
-    "lat": "-34.497105",
-    "long": "150.79729",
+    "lat": "-34.497106",
+    "long": "150.797288",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2426,8 +2426,8 @@
     "city": "Goulburn",
     "state": "NSW",
     "postcode": "2580",
-    "lat": "-34.748116",
-    "long": "149.7497",
+    "lat": "-34.748114",
+    "long": "149.749701",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2481,8 +2481,8 @@
     "city": "Lavington",
     "state": "NSW",
     "postcode": "2641",
-    "lat": "-36.050358",
-    "long": "146.93275",
+    "lat": "-36.050359",
+    "long": "146.932749",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2492,8 +2492,8 @@
     "city": "Corowa",
     "state": "NSW",
     "postcode": "2646",
-    "lat": "-35.995197",
-    "long": "146.387",
+    "lat": "-35.995198",
+    "long": "146.386987",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2503,8 +2503,8 @@
     "city": "Tanilba Bay",
     "state": "NSW",
     "postcode": "2319",
-    "lat": "-32.735943",
-    "long": "151.99982",
+    "lat": "-32.735941",
+    "long": "151.999814",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2514,8 +2514,8 @@
     "city": "Marsden Park",
     "state": "NSW",
     "postcode": "2765",
-    "lat": "-33.721428",
-    "long": "150.84161",
+    "lat": "-33.72142688",
+    "long": "150.8416104",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2526,7 +2526,7 @@
     "state": "NSW",
     "postcode": "2259",
     "lat": "-33.18883",
-    "long": "151.55956",
+    "long": "151.55955",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2536,8 +2536,8 @@
     "city": "Campbelltown",
     "state": "NSW",
     "postcode": "2560",
-    "lat": "-34.07289",
-    "long": "150.79903",
+    "lat": "-34.072892",
+    "long": "150.799021",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2547,8 +2547,8 @@
     "city": "Fairfield",
     "state": "NSW",
     "postcode": "2165",
-    "lat": "-33.86765",
-    "long": "150.95157",
+    "lat": "-33.867649",
+    "long": "150.951566",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2558,8 +2558,8 @@
     "city": "Warrawong",
     "state": "NSW",
     "postcode": "2502",
-    "lat": "-34.487312",
-    "long": "150.89017",
+    "lat": "-34.487314",
+    "long": "150.890166",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2569,8 +2569,8 @@
     "city": "Albion Park",
     "state": "NSW",
     "postcode": "2527",
-    "lat": "-34.57051",
-    "long": "150.77052",
+    "lat": "-34.570512",
+    "long": "150.770517",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2581,7 +2581,7 @@
     "state": "NSW",
     "postcode": "2103",
     "lat": "-33.678104",
-    "long": "151.29184",
+    "long": "151.291847",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2592,7 +2592,7 @@
     "state": "NSW",
     "postcode": "2430",
     "lat": "-31.89834",
-    "long": "152.48212",
+    "long": "152.482113",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2602,8 +2602,8 @@
     "city": "Kurri Kurri",
     "state": "NSW",
     "postcode": "2327",
-    "lat": "-32.825283",
-    "long": "151.4885",
+    "lat": "-32.825282",
+    "long": "151.488494",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2613,8 +2613,8 @@
     "city": "Kotara",
     "state": "NSW",
     "postcode": "2289",
-    "lat": "-32.940445",
-    "long": "151.70709",
+    "lat": "-32.940444",
+    "long": "151.707089",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2624,8 +2624,8 @@
     "city": "Tuggerah",
     "state": "NSW",
     "postcode": "2259",
-    "lat": "-33.3095",
-    "long": "151.42255",
+    "lat": "-33.309502",
+    "long": "151.422552",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2635,8 +2635,8 @@
     "city": "Marsden Park",
     "state": "NSW",
     "postcode": "2765",
-    "lat": "-33.719975",
-    "long": "150.84087",
+    "lat": "-33.71997392",
+    "long": "150.8408594",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2646,8 +2646,8 @@
     "city": "Winmalee",
     "state": "NSW",
     "postcode": "2777",
-    "lat": "-33.67173",
-    "long": "150.60892",
+    "lat": "-33.671731",
+    "long": "150.608919",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2657,8 +2657,8 @@
     "city": "Penrith",
     "state": "NSW",
     "postcode": "2750",
-    "lat": "-33.765102",
-    "long": "150.6824",
+    "lat": "-33.765104",
+    "long": "150.682404",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2668,8 +2668,8 @@
     "city": "Charmhaven",
     "state": "NSW",
     "postcode": "2263",
-    "lat": "-33.23054",
-    "long": "151.50131",
+    "lat": "-33.230541",
+    "long": "151.501313",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2679,8 +2679,8 @@
     "city": "Emu Plains",
     "state": "NSW",
     "postcode": "2750",
-    "lat": "-33.753353",
-    "long": "150.65659",
+    "lat": "-33.753355",
+    "long": "150.656592",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2690,8 +2690,8 @@
     "city": "Bankstown",
     "state": "NSW",
     "postcode": "2200",
-    "lat": "-33.931557",
-    "long": "151.03009",
+    "lat": "-33.931558",
+    "long": "151.030088",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2723,8 +2723,8 @@
     "city": "Port Macquarie",
     "state": "NSW",
     "postcode": "2444",
-    "lat": "-31.45736",
-    "long": "152.87422",
+    "lat": "-31.457359",
+    "long": "152.874223",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2746,7 +2746,7 @@
     "state": "NSW",
     "postcode": "2486",
     "lat": "-28.203032",
-    "long": "153.54544",
+    "long": "153.545443",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2768,7 +2768,7 @@
     "state": "NSW",
     "postcode": "2320",
     "lat": "-32.702785",
-    "long": "151.53955",
+    "long": "151.539551",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2779,7 +2779,7 @@
     "state": "NSW",
     "postcode": "2450",
     "lat": "-30.30905",
-    "long": "153.10156",
+    "long": "153.101562",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2812,7 +2812,7 @@
     "state": "NSW",
     "postcode": "2199",
     "lat": "-33.896214",
-    "long": "151.03734",
+    "long": "151.037343",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2823,7 +2823,7 @@
     "state": "NSW",
     "postcode": "2093",
     "lat": "-33.788166",
-    "long": "151.2671",
+    "long": "151.267109",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2833,8 +2833,8 @@
     "city": "Wetherill Park",
     "state": "NSW",
     "postcode": "2164",
-    "lat": "-33.852036",
-    "long": "150.90927",
+    "lat": "-33.852034",
+    "long": "150.909273",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2844,8 +2844,8 @@
     "city": "Muswellbrook",
     "state": "NSW",
     "postcode": "2333",
-    "lat": "-32.26221",
-    "long": "150.88995",
+    "lat": "-32.262212",
+    "long": "150.889955",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2867,7 +2867,7 @@
     "state": "NSW",
     "postcode": "2224",
     "lat": "-34.008812",
-    "long": "151.10529",
+    "long": "151.105281",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2877,8 +2877,8 @@
     "city": "Plumpton",
     "state": "NSW",
     "postcode": "2761",
-    "lat": "-33.74428",
-    "long": "150.83508",
+    "lat": "-33.744283",
+    "long": "150.835083",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2888,8 +2888,8 @@
     "city": "Rouse Hill",
     "state": "NSW",
     "postcode": "2155",
-    "lat": "-33.686726",
-    "long": "150.92216",
+    "lat": "-33.686724",
+    "long": "150.922172",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2900,7 +2900,7 @@
     "state": "NSW",
     "postcode": "2168",
     "lat": "-33.920097",
-    "long": "150.88364",
+    "long": "150.883629",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2921,8 +2921,8 @@
     "city": "McGraths Hill",
     "state": "NSW",
     "postcode": "2756",
-    "lat": "-33.62745",
-    "long": "150.83925",
+    "lat": "-33.627449",
+    "long": "150.839246",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2932,8 +2932,8 @@
     "city": "Castle Hill",
     "state": "NSW",
     "postcode": "2154",
-    "lat": "-33.727936",
-    "long": "150.97507",
+    "lat": "-33.727934",
+    "long": "150.975066",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2944,7 +2944,7 @@
     "state": "NSW",
     "postcode": "2560",
     "lat": "-34.071003",
-    "long": "150.80377",
+    "long": "150.803769",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2955,7 +2955,7 @@
     "state": "NSW",
     "postcode": "2566",
     "lat": "-34.025463",
-    "long": "150.81935",
+    "long": "150.819357",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2965,7 +2965,7 @@
     "city": "Hammondville",
     "state": "NSW",
     "postcode": "2170",
-    "lat": "-33.956112",
+    "lat": "-33.956113",
     "long": "150.95695",
     "collection_point_type": "Reverse Vending Machine"
   },
@@ -2977,7 +2977,7 @@
     "state": "NSW",
     "postcode": "2769",
     "lat": "-33.70607",
-    "long": "150.91124",
+    "long": "150.911238",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2987,8 +2987,8 @@
     "city": "Minto",
     "state": "NSW",
     "postcode": "2566",
-    "lat": "-34.02803",
-    "long": "150.84991",
+    "lat": "-34.028029",
+    "long": "150.849921",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -2998,8 +2998,8 @@
     "city": "Jamisontown",
     "state": "NSW",
     "postcode": "2750",
-    "lat": "-33.760113",
-    "long": "150.6759",
+    "lat": "-33.760112",
+    "long": "150.675905",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3009,8 +3009,8 @@
     "city": "Doyalson",
     "state": "NSW",
     "postcode": "2262",
-    "lat": "-33.196026",
-    "long": "151.52695",
+    "lat": "-33.196027",
+    "long": "151.526951",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3020,8 +3020,8 @@
     "city": "Villawood",
     "state": "NSW",
     "postcode": "2163",
-    "lat": "-33.878963",
-    "long": "150.97878",
+    "lat": "-33.878962",
+    "long": "150.978779",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3032,7 +3032,7 @@
     "state": "NSW",
     "postcode": "2747",
     "lat": "-33.763298",
-    "long": "150.72519",
+    "long": "150.725196",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3042,8 +3042,8 @@
     "city": "Culburra Beach",
     "state": "NSW",
     "postcode": "2540",
-    "lat": "-34.932823",
-    "long": "150.75557",
+    "lat": "-34.932822",
+    "long": "150.755577",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3053,8 +3053,8 @@
     "city": "Killarney Vale",
     "state": "NSW",
     "postcode": "2261",
-    "lat": "-33.36585",
-    "long": "151.4612",
+    "lat": "-33.365849",
+    "long": "151.461193",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3075,8 +3075,8 @@
     "city": "Berala",
     "state": "NSW",
     "postcode": "2141",
-    "lat": "-33.871136",
-    "long": "151.03326",
+    "lat": "-33.871135",
+    "long": "151.033257",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3087,7 +3087,7 @@
     "state": "NSW",
     "postcode": "2335",
     "lat": "-32.657845",
-    "long": "151.361",
+    "long": "151.360986",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3097,8 +3097,8 @@
     "city": "Belrose",
     "state": "NSW",
     "postcode": "2085",
-    "lat": "-33.703716",
-    "long": "151.21306",
+    "lat": "-33.703715",
+    "long": "151.213062",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3108,7 +3108,7 @@
     "city": "Central Mangrove",
     "state": "NSW",
     "postcode": "2250",
-    "lat": "-33.290977",
+    "lat": "-33.290979",
     "long": "151.23721",
     "collection_point_type": "Reverse Vending Machine"
   },
@@ -3119,8 +3119,8 @@
     "city": "Wadalba",
     "state": "NSW",
     "postcode": "2259",
-    "lat": "-33.263805",
-    "long": "151.46573",
+    "lat": "-33.263807",
+    "long": "151.465725",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3130,8 +3130,8 @@
     "city": "Primbee",
     "state": "NSW",
     "postcode": "2502",
-    "lat": "-34.507492",
-    "long": "150.87805",
+    "lat": "-34.507493",
+    "long": "150.878052",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3141,8 +3141,8 @@
     "city": "Berowra Heights",
     "state": "NSW",
     "postcode": "2082",
-    "lat": "-33.613483",
-    "long": "151.13754",
+    "lat": "-33.613482",
+    "long": "151.137548",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3163,8 +3163,8 @@
     "city": "Singleton",
     "state": "NSW",
     "postcode": "2330",
-    "lat": "-32.56129",
-    "long": "151.18152",
+    "lat": "-32.561291",
+    "long": "151.181522",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3174,8 +3174,8 @@
     "city": "Oran Park",
     "state": "NSW",
     "postcode": "2570",
-    "lat": "-34.0006",
-    "long": "150.74135",
+    "lat": "-34.000598",
+    "long": "150.741355",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3186,7 +3186,7 @@
     "state": "NSW",
     "postcode": "2627",
     "lat": "-36.413692",
-    "long": "148.6234",
+    "long": "148.623397",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3196,8 +3196,8 @@
     "city": "Fingal Bay",
     "state": "NSW",
     "postcode": "2315",
-    "lat": "-32.744003",
-    "long": "152.16096",
+    "lat": "-32.744002",
+    "long": "152.160959",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3207,8 +3207,8 @@
     "city": "Tomago",
     "state": "NSW",
     "postcode": "2322",
-    "lat": "-32.828693",
-    "long": "151.71039",
+    "lat": "-32.828694",
+    "long": "151.710385",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3218,8 +3218,8 @@
     "city": "Raymond Terrace",
     "state": "NSW",
     "postcode": "2324",
-    "lat": "-32.76235",
-    "long": "151.7422",
+    "lat": "-32.762348",
+    "long": "151.742202",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3251,8 +3251,8 @@
     "city": "Lansvale",
     "state": "NSW",
     "postcode": "2166",
-    "lat": "-33.903774",
-    "long": "150.96854",
+    "lat": "-33.903775",
+    "long": "150.968544",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3262,8 +3262,8 @@
     "city": "Lake Haven",
     "state": "NSW",
     "postcode": "2263",
-    "lat": "-33.24263",
-    "long": "151.50246",
+    "lat": "-33.242629",
+    "long": "151.502455",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3274,7 +3274,7 @@
     "state": "NSW",
     "postcode": "2155",
     "lat": "-33.71301",
-    "long": "150.97322",
+    "long": "150.973214",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3285,7 +3285,7 @@
     "state": "NSW",
     "postcode": "2287",
     "lat": "-32.90163",
-    "long": "151.6669",
+    "long": "151.666904",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3296,7 +3296,7 @@
     "state": "NSW",
     "postcode": "2153",
     "lat": "-33.759228",
-    "long": "150.99107",
+    "long": "150.991071",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3307,7 +3307,7 @@
     "state": "NSW",
     "postcode": "2320",
     "lat": "-32.715084",
-    "long": "151.52875",
+    "long": "151.528752",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3328,7 +3328,7 @@
     "city": "Merrylands",
     "state": "NSW",
     "postcode": "2160",
-    "lat": "-33.83505",
+    "lat": "-33.835047",
     "long": "150.99002",
     "collection_point_type": "Reverse Vending Machine"
   },
@@ -3339,8 +3339,8 @@
     "city": "Wetherill Park",
     "state": "NSW",
     "postcode": "2164",
-    "lat": "-33.86051",
-    "long": "150.8989",
+    "lat": "-33.860512",
+    "long": "150.898891",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3350,7 +3350,7 @@
     "city": "Fairfield East",
     "state": "NSW",
     "postcode": "2165",
-    "lat": "-33.86927",
+    "lat": "-33.869272",
     "long": "150.9721",
     "collection_point_type": "Reverse Vending Machine"
   },
@@ -3361,8 +3361,8 @@
     "city": "Kellyville",
     "state": "NSW",
     "postcode": "2155",
-    "lat": "-33.685837",
-    "long": "150.95204",
+    "lat": "-33.685838",
+    "long": "150.952047",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3373,7 +3373,7 @@
     "state": "NSW",
     "postcode": "2747",
     "lat": "-33.727173",
-    "long": "150.72456",
+    "long": "150.724571",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3383,8 +3383,8 @@
     "city": "Gosford",
     "state": "NSW",
     "postcode": "2250",
-    "lat": "-33.41372",
-    "long": "151.34232",
+    "lat": "-33.413718",
+    "long": "151.342311",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3394,8 +3394,8 @@
     "city": "Mittagong",
     "state": "NSW",
     "postcode": "2575",
-    "lat": "-34.44725",
-    "long": "150.43599",
+    "lat": "-34.447249",
+    "long": "150.435989",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3461,7 +3461,7 @@
     "state": "NSW",
     "postcode": "2221",
     "lat": "-33.98869",
-    "long": "151.11371",
+    "long": "151.113704",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3493,8 +3493,8 @@
     "city": "Wattle Grove",
     "state": "NSW",
     "postcode": "2173",
-    "lat": "-33.953426",
-    "long": "150.95271",
+    "lat": "-33.953425",
+    "long": "150.952706",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3515,8 +3515,8 @@
     "city": "Wyee",
     "state": "NSW",
     "postcode": "2259",
-    "lat": "-33.176445",
-    "long": "151.48163",
+    "lat": "-33.176446",
+    "long": "151.481631",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3526,8 +3526,8 @@
     "city": "Brookvale",
     "state": "NSW",
     "postcode": "2100",
-    "lat": "-33.766514",
-    "long": "151.26701",
+    "lat": "-33.766512",
+    "long": "151.26702",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3538,7 +3538,7 @@
     "state": "NSW",
     "postcode": "2534",
     "lat": "-34.74411",
-    "long": "150.82368",
+    "long": "150.823689",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3548,8 +3548,8 @@
     "city": "Forbes",
     "state": "NSW",
     "postcode": "2871",
-    "lat": "-33.374283",
-    "long": "148.0124",
+    "lat": "-33.3742818",
+    "long": "148.012399",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3559,8 +3559,8 @@
     "city": "Luddenham",
     "state": "NSW",
     "postcode": "2745",
-    "lat": "-33.87506",
-    "long": "150.68916",
+    "lat": "-33.875061",
+    "long": "150.68917",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3570,7 +3570,7 @@
     "city": "Waratah",
     "state": "NSW",
     "postcode": "2298",
-    "lat": "-32.90644",
+    "lat": "-32.906442",
     "long": "151.72672",
     "collection_point_type": "Reverse Vending Machine"
   },
@@ -3593,7 +3593,7 @@
     "state": "NSW",
     "postcode": "2144",
     "lat": "-33.845955",
-    "long": "151.0432",
+    "long": "151.043201",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3625,8 +3625,8 @@
     "city": "Quakers Hill",
     "state": "NSW",
     "postcode": "2763",
-    "lat": "-33.725826",
-    "long": "150.88332",
+    "lat": "-33.725828",
+    "long": "150.883309",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3636,8 +3636,8 @@
     "city": "Mollymook",
     "state": "NSW",
     "postcode": "2539",
-    "lat": "-35.324417",
-    "long": "150.4705",
+    "lat": "-35.324416",
+    "long": "150.470509",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3647,8 +3647,8 @@
     "city": "Cecil Hills",
     "state": "NSW",
     "postcode": "2171",
-    "lat": "-33.887344",
-    "long": "150.84874",
+    "lat": "-33.887343",
+    "long": "150.848733",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3658,8 +3658,8 @@
     "city": "Kingscliff",
     "state": "NSW",
     "postcode": "2487",
-    "lat": "-28.236795",
-    "long": "153.56314",
+    "lat": "-28.236796",
+    "long": "153.563146",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3670,7 +3670,7 @@
     "state": "NSW",
     "postcode": "2583",
     "lat": "-34.456924",
-    "long": "149.47034",
+    "long": "149.470339",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3680,8 +3680,8 @@
     "city": "Bondi Junction",
     "state": "NSW",
     "postcode": "2022",
-    "lat": "-33.89258",
-    "long": "151.25084",
+    "lat": "-33.892579",
+    "long": "151.250846",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3724,7 +3724,7 @@
     "city": "North Ryde",
     "state": "NSW",
     "postcode": "2113",
-    "lat": "-33.777367",
+    "lat": "-33.777368",
     "long": "151.1186",
     "collection_point_type": "Reverse Vending Machine"
   },
@@ -3735,8 +3735,8 @@
     "city": "Lalor Park",
     "state": "NSW",
     "postcode": "2147",
-    "lat": "-33.761528",
-    "long": "150.9311",
+    "lat": "-33.761529",
+    "long": "150.931109",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3801,8 +3801,8 @@
     "city": "Woy Woy",
     "state": "NSW",
     "postcode": "2256",
-    "lat": "-33.485256",
-    "long": "151.32526",
+    "lat": "-33.485257",
+    "long": "151.325252",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3813,7 +3813,7 @@
     "state": "NSW",
     "postcode": "2756",
     "lat": "-33.593826",
-    "long": "150.87672",
+    "long": "150.876731",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3823,8 +3823,8 @@
     "city": "Kempsey",
     "state": "NSW",
     "postcode": "2440",
-    "lat": "-31.103085",
-    "long": "152.8278",
+    "lat": "-31.103084",
+    "long": "152.827798",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3845,8 +3845,8 @@
     "city": "Hornsby",
     "state": "NSW",
     "postcode": "2077",
-    "lat": "-33.705414",
-    "long": "151.10138",
+    "lat": "-33.705415",
+    "long": "151.101387",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3878,8 +3878,8 @@
     "city": "Fassifern",
     "state": "NSW",
     "postcode": "2283",
-    "lat": "-32.985626",
-    "long": "151.58806",
+    "lat": "-32.985628",
+    "long": "151.588065",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3900,8 +3900,8 @@
     "city": "Arcadia Vale",
     "state": "NSW",
     "postcode": "2283",
-    "lat": "-33.064453",
-    "long": "151.578",
+    "lat": "-33.064452",
+    "long": "151.578005",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3922,8 +3922,8 @@
     "city": "Croydon Park",
     "state": "NSW",
     "postcode": "2133",
-    "lat": "-33.899776",
-    "long": "151.10556",
+    "lat": "-33.899777",
+    "long": "151.105563",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3933,8 +3933,8 @@
     "city": "Wentworth Point",
     "state": "NSW",
     "postcode": "2127",
-    "lat": "-33.8247",
-    "long": "151.07881",
+    "lat": "-33.824698",
+    "long": "151.078809",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3945,7 +3945,7 @@
     "state": "NSW",
     "postcode": "2036",
     "lat": "-33.945694",
-    "long": "151.22534",
+    "long": "151.225344",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3966,8 +3966,8 @@
     "city": "Mount Druitt",
     "state": "NSW",
     "postcode": "2770",
-    "lat": "-33.76666",
-    "long": "150.81721",
+    "lat": "-33.766659",
+    "long": "150.81722",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3977,8 +3977,8 @@
     "city": "Leichhardt",
     "state": "NSW",
     "postcode": "2040",
-    "lat": "-33.885075",
-    "long": "151.14905",
+    "lat": "-33.885074",
+    "long": "151.149041",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3989,7 +3989,7 @@
     "state": "NSW",
     "postcode": "2350",
     "lat": "-30.511047",
-    "long": "151.663",
+    "long": "151.662996",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -3999,8 +3999,8 @@
     "city": "Miranda",
     "state": "NSW",
     "postcode": "2228",
-    "lat": "-34.035122",
-    "long": "151.10007",
+    "lat": "-34.0351222",
+    "long": "151.1000671",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4033,7 +4033,7 @@
     "state": "NSW",
     "postcode": "2365",
     "lat": "-30.225039",
-    "long": "151.67067",
+    "long": "151.670671",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4054,8 +4054,8 @@
     "city": "Merrylands",
     "state": "NSW",
     "postcode": "2160",
-    "lat": "-33.83073",
-    "long": "150.99562",
+    "lat": "-33.830732",
+    "long": "150.995617",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4065,8 +4065,8 @@
     "city": "Wickham",
     "state": "NSW",
     "postcode": "2293",
-    "lat": "-32.91879",
-    "long": "151.75409",
+    "lat": "-32.918788",
+    "long": "151.754086",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4077,7 +4077,7 @@
     "state": "NSW",
     "postcode": "2580",
     "lat": "-34.74625",
-    "long": "149.73248",
+    "long": "149.732483",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4109,8 +4109,8 @@
     "city": "Kempsey",
     "state": "NSW",
     "postcode": "2440",
-    "lat": "-31.079288",
-    "long": "152.83887",
+    "lat": "-31.079289",
+    "long": "152.838864",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4131,8 +4131,8 @@
     "city": "Cabramatta",
     "state": "NSW",
     "postcode": "2166",
-    "lat": "-33.902813",
-    "long": "150.93672",
+    "lat": "-33.9028113",
+    "long": "150.936717",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4142,8 +4142,8 @@
     "city": "Batemans Bay",
     "state": "NSW",
     "postcode": "2536",
-    "lat": "-35.704384",
-    "long": "150.17622",
+    "lat": "-35.704382",
+    "long": "150.176221",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4175,8 +4175,8 @@
     "city": "Meadowbank",
     "state": "NSW",
     "postcode": "2114",
-    "lat": "-33.818405",
-    "long": "151.09006",
+    "lat": "-33.818407",
+    "long": "151.090064",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4186,8 +4186,8 @@
     "city": "Lavington",
     "state": "NSW",
     "postcode": "2641",
-    "lat": "-36.047813",
-    "long": "146.93425",
+    "lat": "-36.047812",
+    "long": "146.934257",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4197,8 +4197,8 @@
     "city": "Ballina",
     "state": "NSW",
     "postcode": "2478",
-    "lat": "-28.84852",
-    "long": "153.55556",
+    "lat": "-28.848521",
+    "long": "153.55555",
     "collection_point_type": "Reverse Vending Centre"
   },
   {
@@ -4209,7 +4209,7 @@
     "state": "NSW",
     "postcode": "2232",
     "lat": "-34.039165",
-    "long": "151.05658",
+    "long": "151.056587",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4220,7 +4220,7 @@
     "state": "NSW",
     "postcode": "2066",
     "lat": "-33.81398",
-    "long": "151.17078",
+    "long": "151.170772",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4231,7 +4231,7 @@
     "state": "NSW",
     "postcode": "2170",
     "lat": "-33.926006",
-    "long": "150.91457",
+    "long": "150.914561",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4242,7 +4242,7 @@
     "state": "NSW",
     "postcode": "2141",
     "lat": "-33.85035",
-    "long": "151.04959",
+    "long": "151.049584",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4264,7 +4264,7 @@
     "state": "NSW",
     "postcode": "2207",
     "lat": "-33.949253",
-    "long": "151.10661",
+    "long": "151.106612",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4285,8 +4285,8 @@
     "city": "Green Valley",
     "state": "NSW",
     "postcode": "2168",
-    "lat": "-33.90785",
-    "long": "150.86824",
+    "lat": "-33.907849",
+    "long": "150.868244",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4296,8 +4296,8 @@
     "city": "Rockdale",
     "state": "NSW",
     "postcode": "2216",
-    "lat": "-33.94781",
-    "long": "151.13995",
+    "lat": "-33.947813",
+    "long": "151.139948",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4307,8 +4307,8 @@
     "city": "Elizabeth Bay",
     "state": "NSW",
     "postcode": "2011",
-    "lat": "-33.873425",
-    "long": "151.22668",
+    "lat": "-33.873424",
+    "long": "151.226685",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4330,7 +4330,7 @@
     "state": "NSW",
     "postcode": "2146",
     "lat": "-33.787376",
-    "long": "150.94913",
+    "long": "150.949121",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4340,8 +4340,8 @@
     "city": "Warabrook",
     "state": "NSW",
     "postcode": "2304",
-    "lat": "-32.886147",
-    "long": "151.71954",
+    "lat": "-32.886148",
+    "long": "151.719549",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4351,8 +4351,8 @@
     "city": "Hurstville",
     "state": "NSW",
     "postcode": "2220",
-    "lat": "-33.96626",
-    "long": "151.10495",
+    "lat": "-33.966258",
+    "long": "151.104946",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4362,8 +4362,8 @@
     "city": "Thornleigh",
     "state": "NSW",
     "postcode": "2120",
-    "lat": "-33.723072",
-    "long": "151.08751",
+    "lat": "-33.723073",
+    "long": "151.087512",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4373,8 +4373,8 @@
     "city": "Mount Annan",
     "state": "NSW",
     "postcode": "2567",
-    "lat": "-34.05541",
-    "long": "150.77197",
+    "lat": "-34.055407",
+    "long": "150.771968",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4395,8 +4395,8 @@
     "city": "Dungog",
     "state": "NSW",
     "postcode": "2420",
-    "lat": "-32.41261",
-    "long": "151.74902",
+    "lat": "-32.412611",
+    "long": "151.749024",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4406,8 +4406,8 @@
     "city": "Kurri Kurri",
     "state": "NSW",
     "postcode": "2327",
-    "lat": "-32.813225",
-    "long": "151.47372",
+    "lat": "-32.813224",
+    "long": "151.473719",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4417,8 +4417,8 @@
     "city": "Sylvania Waters",
     "state": "NSW",
     "postcode": "2224",
-    "lat": "-34.024837",
-    "long": "151.11032",
+    "lat": "-34.024836",
+    "long": "151.110321",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4428,8 +4428,8 @@
     "city": "Cameron Park",
     "state": "NSW",
     "postcode": "2285",
-    "lat": "-32.916744",
-    "long": "151.5969",
+    "lat": "-32.916745",
+    "long": "151.596895",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4451,7 +4451,7 @@
     "state": "NSW",
     "postcode": "2179",
     "lat": "-33.995186",
-    "long": "150.79121",
+    "long": "150.791208",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4461,8 +4461,8 @@
     "city": "Eastern Creek",
     "state": "NSW",
     "postcode": "2766",
-    "lat": "-33.78431",
-    "long": "150.85419",
+    "lat": "-33.784309",
+    "long": "150.854191",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4472,8 +4472,8 @@
     "city": "Dubbo",
     "state": "NSW",
     "postcode": "2830",
-    "lat": "-32.250076",
-    "long": "148.59851",
+    "lat": "-32.250078",
+    "long": "148.598507",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4516,8 +4516,8 @@
     "city": "North Parramatta",
     "state": "NSW",
     "postcode": "2151",
-    "lat": "-33.794277",
-    "long": "151.00119",
+    "lat": "-33.794279",
+    "long": "151.001195",
     "collection_point_type": "Reverse Vending Centre"
   },
   {
@@ -4560,8 +4560,8 @@
     "city": "Kyogle",
     "state": "NSW",
     "postcode": "2474",
-    "lat": "-28.653013",
-    "long": "153.00363",
+    "lat": "-28.653014",
+    "long": "153.003638",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4571,8 +4571,8 @@
     "city": "Picton",
     "state": "NSW",
     "postcode": "2571",
-    "lat": "-34.168953",
-    "long": "150.6127",
+    "lat": "-34.168952",
+    "long": "150.612704",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4583,7 +4583,7 @@
     "state": "NSW",
     "postcode": "2159",
     "lat": "-33.650696",
-    "long": "151.04573",
+    "long": "151.045734",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4593,8 +4593,8 @@
     "city": "Rydalmere",
     "state": "NSW",
     "postcode": "2116",
-    "lat": "-33.811813",
-    "long": "151.0351",
+    "lat": "-33.811815",
+    "long": "151.035093",
     "collection_point_type": "Reverse Vending Centre"
   },
   {
@@ -4605,7 +4605,7 @@
     "state": "NSW",
     "postcode": "2126",
     "lat": "-33.718563",
-    "long": "151.04594",
+    "long": "151.04595",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4616,7 +4616,7 @@
     "state": "NSW",
     "postcode": "2161",
     "lat": "-33.86126",
-    "long": "150.97578",
+    "long": "150.975781",
     "collection_point_type": "Reverse Vending Centre"
   },
   {
@@ -4626,8 +4626,8 @@
     "city": "Elermore Vale",
     "state": "NSW",
     "postcode": "2287",
-    "lat": "-32.91751",
-    "long": "151.67477",
+    "lat": "-32.917512",
+    "long": "151.674775",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4648,8 +4648,8 @@
     "city": "Bulli",
     "state": "NSW",
     "postcode": "2516",
-    "lat": "-34.33147",
-    "long": "150.91248",
+    "lat": "-34.331469",
+    "long": "150.912472",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4659,8 +4659,8 @@
     "city": "Cranebrook",
     "state": "NSW",
     "postcode": "2749",
-    "lat": "-33.689133",
-    "long": "150.72653",
+    "lat": "-33.689134",
+    "long": "150.726536",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4670,8 +4670,8 @@
     "city": "Hornsby Heights",
     "state": "NSW",
     "postcode": "2077",
-    "lat": "-33.679348",
-    "long": "151.09938",
+    "lat": "-33.679347",
+    "long": "151.099379",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4693,7 +4693,7 @@
     "state": "NSW",
     "postcode": "2439",
     "lat": "-31.632902",
-    "long": "152.7217",
+    "long": "152.721699",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4704,7 +4704,7 @@
     "state": "NSW",
     "postcode": "2074",
     "lat": "-33.7322",
-    "long": "151.12784",
+    "long": "151.127837",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4736,8 +4736,8 @@
     "city": "Lake Illawarra",
     "state": "NSW",
     "postcode": "2528",
-    "lat": "-34.53886",
-    "long": "150.85367",
+    "lat": "-34.538861",
+    "long": "150.853662",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4758,8 +4758,8 @@
     "city": "St Ives",
     "state": "NSW",
     "postcode": "2075",
-    "lat": "-33.730408",
-    "long": "151.15875",
+    "lat": "-33.730409",
+    "long": "151.158756",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4769,8 +4769,8 @@
     "city": "Peakhurst",
     "state": "NSW",
     "postcode": "2210",
-    "lat": "-33.95969",
-    "long": "151.06436",
+    "lat": "-33.959691",
+    "long": "151.064361",
     "collection_point_type": "Reverse Vending Centre"
   },
   {
@@ -4781,7 +4781,7 @@
     "state": "NSW",
     "postcode": "2143",
     "lat": "-33.884533",
-    "long": "151.0195",
+    "long": "151.019504",
     "collection_point_type": "Reverse Vending Centre"
   },
   {
@@ -4791,8 +4791,8 @@
     "city": "West Wollongong",
     "state": "NSW",
     "postcode": "2500",
-    "lat": "-34.433018",
-    "long": "150.86559",
+    "lat": "-34.433019",
+    "long": "150.865587",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4813,8 +4813,8 @@
     "city": "Henley",
     "state": "NSW",
     "postcode": "2111",
-    "lat": "-33.841125",
-    "long": "151.13797",
+    "lat": "-33.841127",
+    "long": "151.137973",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4824,8 +4824,8 @@
     "city": "Kingswood",
     "state": "NSW",
     "postcode": "2747",
-    "lat": "-33.770226",
-    "long": "150.73601",
+    "lat": "-33.770225",
+    "long": "150.736003",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4846,8 +4846,8 @@
     "city": "Edmondson Park",
     "state": "NSW",
     "postcode": "2174",
-    "lat": "-33.97099",
-    "long": "150.85872",
+    "lat": "-33.970988",
+    "long": "150.858723",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4857,8 +4857,8 @@
     "city": "Albion Park Rail",
     "state": "NSW",
     "postcode": "2527",
-    "lat": "-34.5544",
-    "long": "150.79114",
+    "lat": "-34.554403",
+    "long": "150.791135",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4891,7 +4891,7 @@
     "state": "NSW",
     "postcode": "2489",
     "lat": "-28.381",
-    "long": "153.56706",
+    "long": "153.567064",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4901,8 +4901,8 @@
     "city": "Warialda",
     "state": "NSW",
     "postcode": "2402",
-    "lat": "-29.541801",
-    "long": "150.57451",
+    "lat": "-29.5418023",
+    "long": "150.5745097",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4956,8 +4956,8 @@
     "city": "Erina",
     "state": "NSW",
     "postcode": "2250",
-    "lat": "-33.434338",
-    "long": "151.38416",
+    "lat": "-33.434337",
+    "long": "151.384162",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -4968,7 +4968,7 @@
     "state": "NSW",
     "postcode": "2640",
     "lat": "-36.0708",
-    "long": "146.93803",
+    "long": "146.938027",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -5000,8 +5000,8 @@
     "city": "Blacktown",
     "state": "NSW",
     "postcode": "2148",
-    "lat": "-33.766235",
-    "long": "150.91156",
+    "lat": "-33.766234",
+    "long": "150.911561",
     "collection_point_type": "Reverse Vending Centre"
   },
   {
@@ -5012,7 +5012,7 @@
     "state": "NSW",
     "postcode": "2541",
     "lat": "-34.89727",
-    "long": "150.61186",
+    "long": "150.611862",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -5022,8 +5022,8 @@
     "city": "Gloucester",
     "state": "NSW",
     "postcode": "2422",
-    "lat": "-32.004814",
-    "long": "151.95557",
+    "lat": "-32.004813",
+    "long": "151.955563",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -5034,7 +5034,7 @@
     "state": "NSW",
     "postcode": "2485",
     "lat": "-28.172436",
-    "long": "153.54262",
+    "long": "153.542618",
     "collection_point_type": "Reverse Vending Centre"
   },
   {
@@ -5066,8 +5066,8 @@
     "city": "Shellharbour City",
     "state": "NSW",
     "postcode": "2529",
-    "lat": "-34.565483",
-    "long": "150.8321",
+    "lat": "-34.56548125",
+    "long": "150.8321117",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -5088,8 +5088,8 @@
     "city": "Alexandria",
     "state": "NSW",
     "postcode": "2015",
-    "lat": "-33.908337",
-    "long": "151.18878",
+    "lat": "-33.90833789",
+    "long": "151.1887871",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -5110,8 +5110,8 @@
     "city": "Belmont",
     "state": "NSW",
     "postcode": "2280",
-    "lat": "-33.03583",
-    "long": "151.65948",
+    "lat": "-33.035831",
+    "long": "151.659489",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -5122,7 +5122,7 @@
     "state": "NSW",
     "postcode": "2444",
     "lat": "-31.426285",
-    "long": "152.87263",
+    "long": "152.872629",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -5165,8 +5165,8 @@
     "city": "Casula",
     "state": "NSW",
     "postcode": "2170",
-    "lat": "-33.9608",
-    "long": "150.88289",
+    "lat": "-33.9608015",
+    "long": "150.8828925",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -5176,8 +5176,8 @@
     "city": "Ryde",
     "state": "NSW",
     "postcode": "2112",
-    "lat": "-33.81252",
-    "long": "151.1054",
+    "lat": "-33.81251793",
+    "long": "151.1053873",
     "collection_point_type": "Reverse Vending Centre"
   },
   {
@@ -5242,8 +5242,8 @@
     "city": "Roselands",
     "state": "NSW",
     "postcode": "2196",
-    "lat": "-33.936794",
-    "long": "151.06999",
+    "lat": "-33.93679526",
+    "long": "151.0699885",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -5253,8 +5253,8 @@
     "city": "Toormina",
     "state": "NSW",
     "postcode": "2452",
-    "lat": "-30.352863",
-    "long": "153.09264",
+    "lat": "-30.35286317",
+    "long": "153.0926343",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -5264,8 +5264,8 @@
     "city": "Blayney",
     "state": "NSW",
     "postcode": "2799",
-    "lat": "-33.529415",
-    "long": "149.25772",
+    "lat": "-33.529416",
+    "long": "149.257717",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -5286,8 +5286,8 @@
     "city": "Glendale",
     "state": "NSW",
     "postcode": "2285",
-    "lat": "-32.935116",
-    "long": "151.64545",
+    "lat": "-32.935114",
+    "long": "151.645453",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -5375,7 +5375,7 @@
     "state": "NSW",
     "postcode": "2533",
     "lat": "-34.64794",
-    "long": "150.77733",
+    "long": "150.777322",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -5385,8 +5385,8 @@
     "city": "Uralla",
     "state": "NSW",
     "postcode": "2358",
-    "lat": "-30.639109",
-    "long": "151.49844",
+    "lat": "-30.63910923",
+    "long": "151.4984376",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -5396,8 +5396,8 @@
     "city": "Tamworth",
     "state": "NSW",
     "postcode": "2340",
-    "lat": "-31.0821",
-    "long": "150.92337",
+    "lat": "-31.08210069",
+    "long": "150.9233664",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -5418,8 +5418,8 @@
     "city": "Dapto",
     "state": "NSW",
     "postcode": "2530",
-    "lat": "-34.486423",
-    "long": "150.8072",
+    "lat": "-34.486422",
+    "long": "150.807209",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -5506,8 +5506,8 @@
     "city": "Tea Gardens",
     "state": "NSW",
     "postcode": "2324",
-    "lat": "-32.651543",
-    "long": "152.14955",
+    "lat": "-32.65154381",
+    "long": "152.1495471",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -5518,7 +5518,7 @@
     "state": "NSW",
     "postcode": "2800",
     "lat": "-33.28539",
-    "long": "149.10439",
+    "long": "149.10438",
     "collection_point_type": "Reverse Vending Centre"
   },
   {
@@ -5551,7 +5551,7 @@
     "state": "NSW",
     "postcode": "2852",
     "lat": "-32.35795",
-    "long": "149.54553",
+    "long": "149.5455311",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -5561,8 +5561,8 @@
     "city": "Portland",
     "state": "NSW",
     "postcode": "2847",
-    "lat": "-33.360783",
-    "long": "149.98232",
+    "lat": "-33.36078096",
+    "long": "149.9823115",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -5583,8 +5583,8 @@
     "city": "Roseville",
     "state": "NSW",
     "postcode": "2069",
-    "lat": "-33.778458",
-    "long": "151.19533",
+    "lat": "-33.7784561",
+    "long": "151.1953309",
     "collection_point_type": "Reverse Vending Centre"
   },
   {
@@ -5627,8 +5627,8 @@
     "city": "Taree",
     "state": "NSW",
     "postcode": "2430",
-    "lat": "-31.905016",
-    "long": "152.45067",
+    "lat": "-31.905015",
+    "long": "152.450661",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -5639,7 +5639,7 @@
     "state": "NSW",
     "postcode": "2022",
     "lat": "-33.893436",
-    "long": "151.24904",
+    "long": "151.249045",
     "collection_point_type": "Reverse Vending Centre"
   },
   {
@@ -5650,7 +5650,7 @@
     "state": "NSW",
     "postcode": "2850",
     "lat": "-32.609886",
-    "long": "149.60616",
+    "long": "149.606154",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -5660,8 +5660,8 @@
     "city": "Condong",
     "state": "NSW",
     "postcode": "2484",
-    "lat": "-28.313833",
-    "long": "153.43483",
+    "lat": "-28.313834",
+    "long": "153.434829",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -5715,8 +5715,8 @@
     "city": "Richmond",
     "state": "NSW",
     "postcode": "2753",
-    "lat": "-33.59627",
-    "long": "150.75542",
+    "lat": "-33.596272",
+    "long": "150.755421",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -5726,8 +5726,8 @@
     "city": "Kingsford",
     "state": "NSW",
     "postcode": "2032",
-    "lat": "-33.92187",
-    "long": "151.2269",
+    "lat": "-33.921873",
+    "long": "151.226893",
     "collection_point_type": "Reverse Vending Centre"
   },
   {
@@ -5759,8 +5759,8 @@
     "city": "Thornton",
     "state": "NSW",
     "postcode": "2322",
-    "lat": "-32.78997",
-    "long": "151.63504",
+    "lat": "-32.7899706",
+    "long": "151.6350365",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -5771,7 +5771,7 @@
     "state": "NSW",
     "postcode": "2325",
     "lat": "-32.798794",
-    "long": "151.34892",
+    "long": "151.348929",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -5781,8 +5781,8 @@
     "city": "Eden",
     "state": "NSW",
     "postcode": "2551",
-    "lat": "-37.04744",
-    "long": "149.89825",
+    "lat": "-37.047438",
+    "long": "149.898257",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -5793,7 +5793,7 @@
     "state": "NSW",
     "postcode": "2008",
     "lat": "-33.88457",
-    "long": "151.20027",
+    "long": "151.200278",
     "collection_point_type": "Reverse Vending Centre"
   },
   {
@@ -5803,8 +5803,8 @@
     "city": "Mortdale",
     "state": "NSW",
     "postcode": "2223",
-    "lat": "-33.971745",
-    "long": "151.07863",
+    "lat": "-33.971744",
+    "long": "151.078623",
     "collection_point_type": "Reverse Vending Centre"
   },
   {
@@ -5815,7 +5815,7 @@
     "state": "NSW",
     "postcode": "2400",
     "lat": "-29.462084",
-    "long": "149.84052",
+    "long": "149.840516",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -5826,7 +5826,7 @@
     "state": "NSW",
     "postcode": "2065",
     "lat": "-33.821495",
-    "long": "151.20067",
+    "long": "151.200675",
     "collection_point_type": "Reverse Vending Centre"
   },
   {
@@ -5847,8 +5847,8 @@
     "city": "Haberfield",
     "state": "NSW",
     "postcode": "2045",
-    "lat": "-33.881126",
-    "long": "151.13947",
+    "lat": "-33.881128",
+    "long": "151.139458",
     "collection_point_type": "Reverse Vending Centre"
   },
   {
@@ -5869,8 +5869,8 @@
     "city": "Bungendore",
     "state": "NSW",
     "postcode": "2621",
-    "lat": "-35.25617",
-    "long": "149.44286",
+    "lat": "-35.256168",
+    "long": "149.442861",
     "collection_point_type": "Reverse Vending Centre"
   },
   {
@@ -5880,8 +5880,8 @@
     "city": "Robertson",
     "state": "NSW",
     "postcode": "2577",
-    "lat": "-34.59023",
-    "long": "150.59486",
+    "lat": "-34.590229",
+    "long": "150.594862",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -5891,8 +5891,8 @@
     "city": "Narromine",
     "state": "NSW",
     "postcode": "2821",
-    "lat": "-32.257214",
-    "long": "148.2375",
+    "lat": "-32.257215",
+    "long": "148.237499",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -5969,7 +5969,7 @@
     "state": "NSW",
     "postcode": "2028",
     "lat": "-33.8815",
-    "long": "151.24702",
+    "long": "151.247029",
     "collection_point_type": "Reverse Vending Centre"
   },
   {
@@ -5980,7 +5980,7 @@
     "state": "NSW",
     "postcode": "2577",
     "lat": "-34.52107",
-    "long": "150.37384",
+    "long": "150.373843",
     "collection_point_type": "Reverse Vending Centre"
   },
   {
@@ -6012,8 +6012,8 @@
     "city": "Edgecliff",
     "state": "NSW",
     "postcode": "2027",
-    "lat": "-33.87906",
-    "long": "151.23541",
+    "lat": "-33.879058",
+    "long": "151.235419",
     "collection_point_type": "Reverse Vending Centre"
   },
   {
@@ -6057,7 +6057,7 @@
     "state": "NSW",
     "postcode": "2625",
     "lat": "-36.504642",
-    "long": "148.30489",
+    "long": "148.304886",
     "collection_point_type": "Reverse Vending Centre"
   },
   {
@@ -6112,7 +6112,7 @@
     "state": "NSW",
     "postcode": "2340",
     "lat": "-31.126328",
-    "long": "150.94106",
+    "long": "150.941057",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -6123,7 +6123,7 @@
     "state": "NSW",
     "postcode": "2343",
     "lat": "-31.482195",
-    "long": "150.6702",
+    "long": "150.670203",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -6133,8 +6133,8 @@
     "city": "Singleton",
     "state": "NSW",
     "postcode": "2330",
-    "lat": "-32.565044",
-    "long": "151.16623",
+    "lat": "-32.565046",
+    "long": "151.166236",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -6145,7 +6145,7 @@
     "state": "NSW",
     "postcode": "2388",
     "lat": "-30.225569",
-    "long": "149.4438",
+    "long": "149.443803",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -6167,7 +6167,7 @@
     "state": "NSW",
     "postcode": "2131",
     "lat": "-33.88965",
-    "long": "151.1243",
+    "long": "151.124292",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -6188,8 +6188,8 @@
     "city": "Chatswood",
     "state": "NSW",
     "postcode": "2067",
-    "lat": "-33.797157",
-    "long": "151.18495",
+    "lat": "-33.797158",
+    "long": "151.184956",
     "collection_point_type": "Reverse Vending Centre"
   },
   {
@@ -6221,8 +6221,8 @@
     "city": "Rhodes",
     "state": "NSW",
     "postcode": "2138",
-    "lat": "-33.830486",
-    "long": "151.08632",
+    "lat": "-33.830488",
+    "long": "151.086324",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -6243,8 +6243,8 @@
     "city": "Warriewood",
     "state": "NSW",
     "postcode": "2102",
-    "lat": "-33.696877",
-    "long": "151.29652",
+    "lat": "-33.696876",
+    "long": "151.296524",
     "collection_point_type": "Reverse Vending Centre"
   },
   {
@@ -6276,8 +6276,8 @@
     "city": "Ourimbah",
     "state": "NSW",
     "postcode": "2258",
-    "lat": "-33.353207",
-    "long": "151.36896",
+    "lat": "-33.353205",
+    "long": "151.36895",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -6298,8 +6298,8 @@
     "city": "Holbrook",
     "state": "NSW",
     "postcode": "2644",
-    "lat": "-35.725323",
-    "long": "147.31691",
+    "lat": "-35.725321",
+    "long": "147.316903",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -6320,8 +6320,8 @@
     "city": "North Strathfield",
     "state": "NSW",
     "postcode": "2137",
-    "lat": "-33.85774",
-    "long": "151.09233",
+    "lat": "-33.857738",
+    "long": "151.092324",
     "collection_point_type": "Reverse Vending Centre"
   },
   {
@@ -6353,8 +6353,8 @@
     "city": "Seaforth",
     "state": "NSW",
     "postcode": "2092",
-    "lat": "-33.793343",
-    "long": "151.2504",
+    "lat": "-33.793342",
+    "long": "151.250396",
     "collection_point_type": "Reverse Vending Centre"
   },
   {
@@ -6365,7 +6365,7 @@
     "state": "NSW",
     "postcode": "2337",
     "lat": "-32.049953",
-    "long": "150.8665",
+    "long": "150.866498",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -6397,8 +6397,8 @@
     "city": "Minchinbury",
     "state": "NSW",
     "postcode": "2770",
-    "lat": "-33.779545",
-    "long": "150.81403",
+    "lat": "-33.779543",
+    "long": "150.814033",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -6408,8 +6408,8 @@
     "city": "Coila",
     "state": "NSW",
     "postcode": "2537",
-    "lat": "-36.010704",
-    "long": "150.1047",
+    "lat": "-36.010703",
+    "long": "150.104706",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -6486,7 +6486,7 @@
     "state": "NSW",
     "postcode": "2370",
     "lat": "-29.739641",
-    "long": "151.73692",
+    "long": "151.736925",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -6518,8 +6518,8 @@
     "city": "Fairfield West",
     "state": "NSW",
     "postcode": "2165",
-    "lat": "-33.86886",
-    "long": "150.92389",
+    "lat": "-33.868858",
+    "long": "150.923892",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -6541,7 +6541,7 @@
     "state": "NSW",
     "postcode": "2454",
     "lat": "-30.454689",
-    "long": "152.9014",
+    "long": "152.901396",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -6551,8 +6551,8 @@
     "city": "Bradbury",
     "state": "NSW",
     "postcode": "2560",
-    "lat": "-34.083755",
-    "long": "150.81325",
+    "lat": "-34.083757",
+    "long": "150.813243",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -6563,7 +6563,7 @@
     "state": "NSW",
     "postcode": "2745",
     "lat": "-33.87415",
-    "long": "150.61842",
+    "long": "150.618423",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -6573,8 +6573,8 @@
     "city": "Tarraganda",
     "state": "NSW",
     "postcode": "2550",
-    "lat": "-36.66988",
-    "long": "149.86554",
+    "lat": "-36.66987894",
+    "long": "149.8655356",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -6617,8 +6617,8 @@
     "city": "Freemans Reach",
     "state": "NSW",
     "postcode": "2756",
-    "lat": "-33.558754",
-    "long": "150.80402",
+    "lat": "-33.558753",
+    "long": "150.804018",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -6662,7 +6662,7 @@
     "state": "NSW",
     "postcode": "2151",
     "lat": "-33.800117",
-    "long": "151.01959",
+    "long": "151.019593",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -6738,8 +6738,8 @@
     "city": "Moree",
     "state": "NSW",
     "postcode": "2400",
-    "lat": "-29.48461",
-    "long": "149.8384",
+    "lat": "-29.484609",
+    "long": "149.838401",
     "collection_point_type": "Reverse Vending Centre"
   },
   {
@@ -6749,8 +6749,8 @@
     "city": "Bellbird",
     "state": "NSW",
     "postcode": "2325",
-    "lat": "-32.85475",
-    "long": "151.31825",
+    "lat": "-32.854752",
+    "long": "151.318257",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -6782,8 +6782,8 @@
     "city": "Sydney",
     "state": "NSW",
     "postcode": "2000",
-    "lat": "-33.871437",
-    "long": "151.20853",
+    "lat": "-33.8714355",
+    "long": "151.208524",
     "collection_point_type": "Reverse Vending Centre"
   },
   {
@@ -6815,8 +6815,8 @@
     "city": "East Lismore",
     "state": "NSW",
     "postcode": "2480",
-    "lat": "-28.820147",
-    "long": "153.30067",
+    "lat": "-28.820146",
+    "long": "153.300673",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -6893,7 +6893,7 @@
     "state": "NSW",
     "postcode": "2473",
     "lat": "-29.122324",
-    "long": "153.43474",
+    "long": "153.434731",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -6903,8 +6903,8 @@
     "city": "Junee",
     "state": "NSW",
     "postcode": "2663",
-    "lat": "-34.86711",
-    "long": "147.58353",
+    "lat": "-34.867111",
+    "long": "147.5835325",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -6925,8 +6925,8 @@
     "city": "Appin",
     "state": "NSW",
     "postcode": "2560",
-    "lat": "-34.20385",
-    "long": "150.78682",
+    "lat": "-34.203849",
+    "long": "150.786827",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -7024,8 +7024,8 @@
     "city": "Stanhope Gardens",
     "state": "NSW",
     "postcode": "2768",
-    "lat": "-33.717876",
-    "long": "150.91972",
+    "lat": "-33.717878",
+    "long": "150.919726",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -7035,8 +7035,8 @@
     "city": "The Oaks",
     "state": "NSW",
     "postcode": "2570",
-    "lat": "-34.07491",
-    "long": "150.538",
+    "lat": "-34.074908",
+    "long": "150.537995",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -7047,7 +7047,7 @@
     "state": "NSW",
     "postcode": "2264",
     "lat": "-33.106125",
-    "long": "151.48859",
+    "long": "151.488579",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -7057,8 +7057,8 @@
     "city": "Glenmore Park",
     "state": "NSW",
     "postcode": "2745",
-    "lat": "-33.787155",
-    "long": "150.66847",
+    "lat": "-33.787157",
+    "long": "150.668477",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -7069,7 +7069,7 @@
     "state": "NSW",
     "postcode": "2229",
     "lat": "-34.02915",
-    "long": "151.12196",
+    "long": "151.121956",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -7079,8 +7079,8 @@
     "city": "Cameron Park",
     "state": "NSW",
     "postcode": "2285",
-    "lat": "-32.90958",
-    "long": "151.61192",
+    "lat": "-32.909579",
+    "long": "151.611927",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -7123,8 +7123,8 @@
     "city": "Bonnyrigg",
     "state": "NSW",
     "postcode": "2177",
-    "lat": "-33.8869",
-    "long": "150.8874",
+    "lat": "-33.886903",
+    "long": "150.887398",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -7134,8 +7134,8 @@
     "city": "Telopea",
     "state": "NSW",
     "postcode": "2117",
-    "lat": "-33.79529",
-    "long": "151.04527",
+    "lat": "-33.795293",
+    "long": "151.045269",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -7146,7 +7146,7 @@
     "state": "NSW",
     "postcode": "2870",
     "lat": "-33.14101",
-    "long": "148.17442",
+    "long": "148.174424",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -7167,8 +7167,8 @@
     "city": "Batemans Bay",
     "state": "NSW",
     "postcode": "2536",
-    "lat": "-35.722115",
-    "long": "150.1659",
+    "lat": "-35.722114",
+    "long": "150.165886",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -7178,8 +7178,8 @@
     "city": "Ropes Crossing",
     "state": "NSW",
     "postcode": "2760",
-    "lat": "-33.732918",
-    "long": "150.78094",
+    "lat": "-33.732916",
+    "long": "150.780952",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -7189,8 +7189,8 @@
     "city": "Gunnedah",
     "state": "NSW",
     "postcode": "2380",
-    "lat": "-30.975782",
-    "long": "150.25337",
+    "lat": "-30.975783",
+    "long": "150.253371",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -7200,8 +7200,8 @@
     "city": "Inverell",
     "state": "NSW",
     "postcode": "2360",
-    "lat": "-29.762897",
-    "long": "151.10843",
+    "lat": "-29.762898",
+    "long": "151.108423",
     "collection_point_type": "Reverse Vending Machine"
   },
   {
@@ -7211,8 +7211,8 @@
     "city": "Maitland",
     "state": "NSW",
     "postcode": "2320",
-    "lat": "-32.737164",
-    "long": "151.56209",
+    "lat": "-32.737163",
+    "long": "151.562082",
     "collection_point_type": "Reverse Vending Machine"
   }
 ]
