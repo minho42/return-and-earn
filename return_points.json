@@ -4631,7 +4631,7 @@
     "collection_point_type": "Reverse Vending Machine"
   },
   {
-    "name": "Return & Earn Eastern Suburbs",
+    "name": "Return and Earn Eastern Suburbs",
     "return_point_name": "return-earn-eastern-suburbs",
     "address": "Unit 20\\/61-67 Beauchamp Road",
     "city": "Matraville",
@@ -6017,17 +6017,6 @@
     "collection_point_type": "Reverse Vending Centre"
   },
   {
-    "name": "One Stop Convenience",
-    "return_point_name": "one-stop-convenience",
-    "address": "55 Water Street",
-    "city": "Auburn",
-    "state": "NSW",
-    "postcode": "2144",
-    "lat": "-33.86189",
-    "long": "151.03627",
-    "collection_point_type": "Over The Counter"
-  },
-  {
     "name": "Andrew's Corner Store",
     "return_point_name": "andrews-corner-store",
     "address": "89 Monfarville Street",
@@ -6853,17 +6842,6 @@
     "collection_point_type": "Over The Counter"
   },
   {
-    "name": "Al Hujja Supermarket",
-    "return_point_name": "al-hujja-supermarket-casula",
-    "address": "5-54 De Meyrick Ave",
-    "city": "Casula",
-    "state": "NSW",
-    "postcode": "2170",
-    "lat": "-33.94247",
-    "long": "150.90281",
-    "collection_point_type": "Over The Counter"
-  },
-  {
     "name": "Moulamein LPO",
     "return_point_name": "moulamein-lpo",
     "address": "65 Tallow Street",
@@ -6928,17 +6906,6 @@
     "lat": "-34.203849",
     "long": "150.786827",
     "collection_point_type": "Reverse Vending Machine"
-  },
-  {
-    "name": "Merrylands Supermarket",
-    "return_point_name": "merrylands-supermarket",
-    "address": "193 Merrylands Road",
-    "city": "Merrylands",
-    "state": "NSW",
-    "postcode": "2160",
-    "lat": "-33.83597",
-    "long": "150.98965",
-    "collection_point_type": "Over The Counter"
   },
   {
     "name": "Tian Jin Shi Tang Auburn",
@@ -7214,5 +7181,60 @@
     "lat": "-32.737163",
     "long": "151.562082",
     "collection_point_type": "Reverse Vending Machine"
+  },
+  {
+    "name": "Gum Mart Convenience Store",
+    "return_point_name": "gum-mart-convenience-store",
+    "address": "14 Hannah Street",
+    "city": "Beecroft",
+    "state": "NSW",
+    "postcode": "2119",
+    "lat": "-33.74903220929383",
+    "long": "151.06537610496434",
+    "collection_point_type": "Over The Counter"
+  },
+  {
+    "name": "Corrimal Surf Life Saving Club",
+    "return_point_name": "corrimal-surf-life-saving-club",
+    "address": "1-3 Lake Parade",
+    "city": "East Corrimal",
+    "state": "NSW",
+    "postcode": "2518",
+    "lat": "",
+    "long": "",
+    "collection_point_type": "Over The Counter"
+  },
+  {
+    "name": "Newcastle Surf Life Saving Club",
+    "return_point_name": "newcastle-surf-life-saving-club",
+    "address": "Newcastle Beach",
+    "city": "Newcastle",
+    "state": "NSW",
+    "postcode": "2300",
+    "lat": "",
+    "long": "",
+    "collection_point_type": "Over The Counter"
+  },
+  {
+    "name": "North Palm Beach Surf Life Saving Club",
+    "return_point_name": "north-palm-beach-surf-life-saving-club",
+    "address": "Beach Road",
+    "city": "Palm Beach",
+    "state": "NSW",
+    "postcode": "2108",
+    "lat": "",
+    "long": "",
+    "collection_point_type": "Over The Counter"
+  },
+  {
+    "name": "South Maroubra Surf Life Saving Club",
+    "return_point_name": "south-maroubra-surf-life-saving-club",
+    "address": "1 Marine Parade",
+    "city": "Maroubra",
+    "state": "NSW",
+    "postcode": "2035",
+    "lat": "",
+    "long": "",
+    "collection_point_type": "Over The Counter"
   }
 ]
