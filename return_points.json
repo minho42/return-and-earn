@@ -4708,17 +4708,6 @@
     "collection_point_type": "Reverse Vending Machine"
   },
   {
-    "name": "Bre Container Return",
-    "return_point_name": "bre-container-return",
-    "address": "66 Bourke Street",
-    "city": "Brewarrina",
-    "state": "NSW",
-    "postcode": "2839",
-    "lat": "-29.9653359",
-    "long": "146.8647161",
-    "collection_point_type": "Over The Counter"
-  },
-  {
     "name": "Good Local Pty Ltd",
     "return_point_name": "good-local-pty-ltd",
     "address": "170 Townview Road",
@@ -5148,8 +5137,8 @@
     "collection_point_type": "Reverse Vending Centre"
   },
   {
-    "name": "City Return and Earn",
-    "return_point_name": "city-return-and-earn",
+    "name": "Mascot Return and Earn",
+    "return_point_name": "mascot-return-and-earn",
     "address": "285 King Street",
     "city": "Mascot",
     "state": "NSW",
@@ -7200,8 +7189,8 @@
     "city": "East Corrimal",
     "state": "NSW",
     "postcode": "2518",
-    "lat": "",
-    "long": "",
+    "lat": "-34.38084336",
+    "long": "150.9136455",
     "collection_point_type": "Over The Counter"
   },
   {
@@ -7211,8 +7200,8 @@
     "city": "Newcastle",
     "state": "NSW",
     "postcode": "2300",
-    "lat": "",
-    "long": "",
+    "lat": "-32.93107403",
+    "long": "151.7853663",
     "collection_point_type": "Over The Counter"
   },
   {
@@ -7222,8 +7211,8 @@
     "city": "Palm Beach",
     "state": "NSW",
     "postcode": "2108",
-    "lat": "",
-    "long": "",
+    "lat": "-33.59233402",
+    "long": "151.322485",
     "collection_point_type": "Over The Counter"
   },
   {
@@ -7233,8 +7222,30 @@
     "city": "Maroubra",
     "state": "NSW",
     "postcode": "2035",
-    "lat": "",
-    "long": "",
+    "lat": "-33.95337878",
+    "long": "151.259112",
+    "collection_point_type": "Over The Counter"
+  },
+  {
+    "name": "Bronte Surf Life Saving Club",
+    "return_point_name": "bronte-surf-life-saving-club",
+    "address": "Bronte Road",
+    "city": "Bronte",
+    "state": "NSW",
+    "postcode": "2024",
+    "lat": "-33.9026974",
+    "long": "151.2598482",
+    "collection_point_type": "Over The Counter"
+  },
+  {
+    "name": "Brewarrina Return and Earn",
+    "return_point_name": "brewarrina-return-and-earn",
+    "address": "62 Doyle Street",
+    "city": "Brewarrina",
+    "state": "NSW",
+    "postcode": "2839",
+    "lat": "-29.96216",
+    "long": "146.86499",
     "collection_point_type": "Over The Counter"
   }
 ]
