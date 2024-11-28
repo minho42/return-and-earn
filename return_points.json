@@ -7247,5 +7247,16 @@
     "lat": "-29.96216",
     "long": "146.86499",
     "collection_point_type": "Over The Counter"
+  },
+  {
+    "name": "Ballina Fair",
+    "return_point_name": "ballina-fair",
+    "address": "284 Kerr St",
+    "city": "Balllina",
+    "state": "NSW",
+    "postcode": "2478",
+    "lat": "-28.856573",
+    "long": "153.559952",
+    "collection_point_type": "Reverse Vending Machine"
   }
 ]
