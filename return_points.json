@@ -6820,17 +6820,6 @@
     "collection_point_type": "Automated Depot"
   },
   {
-    "name": "Oatley West Newsagency",
-    "return_point_name": "oatley-west-newsagency",
-    "address": "119 Mulga Road",
-    "city": "Oatley",
-    "state": "NSW",
-    "postcode": "2223",
-    "lat": "-33.97974",
-    "long": "151.07319",
-    "collection_point_type": "Over The Counter"
-  },
-  {
     "name": "Moulamein LPO",
     "return_point_name": "moulamein-lpo",
     "address": "65 Tallow Street",
@@ -7257,6 +7246,28 @@
     "postcode": "2478",
     "lat": "-28.856573",
     "long": "153.559952",
+    "collection_point_type": "Reverse Vending Machine"
+  },
+  {
+    "name": "Mount Druitt Central",
+    "return_point_name": "mount-druitt-central",
+    "address": "10 Zoe Place",
+    "city": "Mount Druitt",
+    "state": "NSW",
+    "postcode": "2770",
+    "lat": "-33.766831",
+    "long": "150.827942",
+    "collection_point_type": "Reverse Vending Machine"
+  },
+  {
+    "name": "Chatswood Place",
+    "return_point_name": "chatswood-place",
+    "address": "260 Victoria Ave",
+    "city": "Chatswood",
+    "state": "NSW",
+    "postcode": "2067",
+    "lat": "-33.79557",
+    "long": "151.188553",
     "collection_point_type": "Reverse Vending Machine"
   }
 ]
